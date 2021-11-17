@@ -71,7 +71,7 @@ O Oracle SQL Developer foi utilizado em nosso projeto devido às suas vantagens,
   <p align="justify">Além disso, desenhamos a ferramenta para que as pessoas possam navegar por ela de forma intuitiva e facilitada, fazendo jus ao título do livro de Krug: “Não me Faça Pensar”.</p>
   <p align="justify">Em relação a programação, minha responsabilidade foi em suportar o desenvolvimento das telas no front-end utilizando HTML e SCSS no VS Code utilizando o framework Angular. Desenvolvi os designs das telas de Cadastro de usuário, Login, Cadastro como Organizador etc.</p>
   </ol>
-  <ol start="3">
+  <ol start="4">
      <h3><li><b>Lições Aprendidas</b></li></h3>
      <ol>
       <li>Avancei no entendimento e uso da metodologia ágil;</li>
