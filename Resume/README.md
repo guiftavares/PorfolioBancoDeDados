@@ -2,50 +2,60 @@
   <body>
      <table align="center">
      <tr>
-       <td align="center"><a href="https://www.linkedin.com/in/guilhermeftavares/"><img style="border-radius: 50%;" src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/GuilhermeTavares.png" width="25%;" alt=""/><br/><sub><b>Guilherme Tavares</b></sub></a><br/><sub><b>Product Owner</b></sub></td>
+       <td align="center"><a href="https://www.linkedin.com/in/guilhermeftavares/"><img style="border-radius: 50%;" src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/GuilhermeTavares.png" width="25%;" alt=""/><br/><sub><b>Guilherme Tavares</b></sub></a><br/><sub><b>Financial Technology Analyst</b></sub></td>
      </tr>
     </table>
 
   <ol>
-    <h3><li><b>Descrição do Projeto</b></li></h3>
-    <p align="justify">
-      <a href="http://vempracasa.herokuapp.com/">#VEMPRACASA</a> é uma parceria entre a Oracle e a FATEC São José dos Campos com a finalidade de desenvolvimento de um Sistema para realização de agendamentos de eventos nos espaços da Casa Oracle, seguindo as normas vigentes de ocupação por conta da Pandemia do Coronavírus, tendo a possibilidade de priorização de acordo com regras de negócio, facilitando a inscrição e cadastro de convidados e aumentando o controle por parte dos organizadores.
+    <h3><li><b>Sobre</b></li></h3>
+    <p align="justify"> I've been working in Information Technology for five years. During this time I had the opportunity to develop intelligent systems and mathematical models in collaboration with the United States Department of Agriculture (USDA). I’ve worked with Project and Portfolio Management in Supply Chain and Construction area, I’ve experienced in Data Analytics and Data Governance focusing on systems reliability and data quality.
+
+Presently, I’m working with Digital Transformation using Power Platform for process automation in the Finance area, and in development as an expert in Reporting for Planning into Anaplan System.
+
+I am also an ally in the Alliance for Diverse Abilities group, leading a project Inclusive Presentation focusing on people with diverse abilities.
     </p>
-      <ol>
-        <h4><li><b>Objetivo Geral</b></li></h4>
-        <p align="justify">
-       Desenvolvimento de uma ferramenta para agendamento de eventos da Casa Oracle com a possibilidade de controle de lotação devido à Pandemia do Corana Vírus, garantindo maior seguridade aos convidados, organizadores e fornecedores.
-        </p>
-        <h4><li><b>Objetivos Específicos</b></li></h4>
-        <p align="justify">
-        Como objetivos específicos temos:
-          <ul>
-            <li>Uso de Metodologia Ágil para Planejamento, desenvolvimento de Backlog do Produto e consolidação do Mínimo Produto Viável (MVP) para cada Sprint;</li>
-            <li>Aperfeiçoamento do uso de Linguagem de Programação (Java, Typescript, Javascript e SQL) como parte do desenvolvimento acadêmico do curso de Tecnologia em Banco de Dados;</li>
-            <li>Uso de conceitos de UX/UI no desenvolvimento do sistema para facilitar o acesso e interação dos usuários;</li>
-            <li>Desenvolvimento de Ferramenta com níveis de acesso de usuário como forma de garantia de segurança do sistema;</li>
-            <li>Uso de Plataforma Cloud para deploy das aplicações desenvolvidas e garantia de melhor performance da ferramenta.</li>
-          </ul>
-          </p> 
-        </ol>    
-        <p align="justify">
-        A partir dos objetivos propostos, as Funcionalidades foram definidas de acordo com os usuários mapeados por meio da Metodologia Product Backlog Building (<a href="https://bityli.com/HaSYZr">AGUIAR; CAROLI, 2021</a>), que consiste num método de refinamento colaborativo para o desenvolvimento do backlog do produto. Além disso, o método auxilia na construção de um entendimento compartilhado do negócio, descreve a experiência do usuário com o produto, facilita a escrita de user stories, define o alinhamento e planejamento inicial e, consequentemente, produz um Product Backlog alinhado com as necessidades do cliente.</p> 
     </ol>
     <ol start="2"> 
-    <h3><li><b>Tecnologias Utilizadas</b></li></h3>
+    <h3><li><b>Experiências</b></li></h3>
       <p align="justify">
-      As principais tecnologias utilizadas para o desenvolvimento do Sistema, são:
         <ul>
-          <li><a href="https://www.figma.com/">Figma</a></li>
-          <p align="justify"> Segundo <a href="http://ijistech.org/ijistech/index.php/ijistech/article/view/145/145">Putra et al. (2021)</a>, Figma é uma ferramenta para projetos UI com excelentes ferramentas termos de Design, Prototipagem, Colaboração, Plug-in de Sistema de Projeto etc.Por conta disso, dentro da nossa ferramenta, foi utilizado o plugin FigJam para (i) realização de metodologia de Design thinking para o levantamento das principais dúvidas sobre o projeto e desenvolvimento de um esboço e linha lógica de construção e (ii) uso da metodologia Product Backlog Building para o entendimento das "dores" do cliente, alinhamento das expectativas, levantamento dos usuários e de suas funcionalidades dentro do sistema, criação de user stories, priorização das user stories e construção do Product Backlog com os principais MVPs para cada Sprint.</p>
-          <li><a href="https://www.atlassian.com/br/software/jira">Jira</a></li>
-          <p align="justify"> De acordo com <a href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1090.9400&rep=rep1&type=pdf">Fischer et al. (2013)</a>, JIRA é um sistema de rastreamento de problemas comumente usado em bugs de software, entretanto, por conta de seus recursos avançados de personalização, é adequado para uso em diferentes atividades na resolução de tíquetes de suporte, bem como no gerenciamento de projeto. Na ferramenta, o sitema foi utilizado como ferramenta do método Scrum para distribuição das atividades do time e priorização das demandas. Cada user story desenvolvida, foi atribuída a um dos integrantes do time com as informações do que deveria ser desenvolvido e dos critérios de aceitação que deveriam ser seguidos com o objetivo de garantir a possibilidade de teste de cada task.</p>
-          <li><a href="https://angular.io/">Angular</a></li>
-          <p align="justify">
-          É um framework de desenvolvimento web baseado em TypeScript, a ferramenta é uma parceria entre a Google e a Microsoft que faz uso de SPA(Single Page Applications), ou seja, aplicação de uma única página <a href="https://periodicos.unisanta.br/index.php/sat/article/viewFile/801/1215">(FONSECA JUNIOR et al., 2018)</a>.
-Para nossa aplicação, o Agular foi a framework escolhida para o desenvolvimento de too front-end do projeto justamente pelo uso de SPA e por possuir uma arquitetura baseada em componentes, os quais funcionam como blocos e podem ser utilizados de acordo com a necessidade do projeto, permitindo maior flexibilização devido a possibilidade de reutilização de código.
-          </p>
-          <li><a href="https://spring.io/">Spring Framework</a></li>
+          <li><a href="https://www.jnjbrasil.com.br/">Johnson & Johnson</a></li>
+          <p><b>Junior Financial Technology Analyst | Nov/2021 - Atual</b></p>
+            <ul>
+              <li> Responsible for processes automation using Power Platform tools like Power Apps, Power Automate, Power BI, and Share Point.</li>
+              <li> Data Governance, Metrics, and Reports Development focusing on Finance Systems Reliability for LATAM Planning & Actuals.</li>
+              <li> Agile Concepts implementation for Planning Brazil Team, aiming to process standardization and improve the user support experience.</li>
+              <li> Agile Concepts implementation for Planning Brazil Team, aiming to process standardization and improve the user support experience.</li>
+            </ul>
+          <br></br>
+          <p><b>Supply Chain Plan & ERP Information Technology Intern | Jan/2021 - Nov/2021 </b></p>
+            <ul>
+              <li> Responsible for consolidating and analyzing Plan & ERP metrics and KPIs focusing on SAP reliability and data quality.</li>
+              <li> Portfolio Management for all Supply Chain Plan & ERP projects, controlling opening/closing date, team allocation, planned vs committed budget, using storytelling with data for assertive visualization.</li>
+              <li> Development as Business Analyst in Outbound Capacity Team working with Agile building user stories and green sheets for tests.</li>
+              <li> Responsible for analyzing the potential of BOT usage as a tool for employee autonomy and end-user incidents resolution with Python.</li>
+              <li> Development and Consolidation of Plan & ERP newsletter, recognized for its global impact and awarded for the people connection.</li>
+              <li> Member of Alliance for Diverse Abilities group leading a project of <a href="https://www.linkedin.com/posts/guilhermeftavares_como-ser-mais-inclusivo-em-apresenta%C3%A7%C3%B5es-activity-6813969637751959552-w_io?utm_source=linkedin_share&utm_medium=member_desktop_web">Inclusive Presentation</a> for people with diverse abilities (hearing, visual, and cognitive).</li>
+            </ul>
+          <br></br>
+          <li><a href="https://agroceresmultimix.com.br/">Agroceres Multimix</a></li>
+          <p><b>Industrial Technical Assistant | Fev/2017 - Nov/2017</b></p>
+            <ul>
+              <li> Quality, Agroindustrial, Construction, and Animals Feed Factories Maintenance Project Management: production and equipment flowchart modeling, development of Standard Operating Procedures (SOP) for industry, safety, and quality areas.</li>
+              <li> I reduced the budget of service/material by 30% based on technical project analysis, budget spreadsheet, and comparison between companies.</li>
+              <li> Agile Concepts implementation for Planning Brazil Team, aiming to process standardization and improve the user support experience.</li>
+              <li> Development of an application to calculate the maximum and minimum capacity of mixers, expediting Sales Representant labor.</li>
+              <li> I've participated in a volunteer employees group collaborating to support and develop events in nursing homes and a shared garden project at the chemical dependency clinic.</li>
+            </ul>
+          <br></br>
+          <li><a href="https://www.embrapa.br/agrossilvipastoril">Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA) Agrossilvipastoril</a></li>
+          <p><b>Agricultural Engineer Intern | Jun/2014 - Dec/2014</b></p>
+            <ul>
+              <li> Responsible for evaluating the impacts of different frequencies of use of the soybean (harvest and 2nd harvest) succession on the sustainability of the production system.</li>
+              <li> Use of Precision Agriculture tools to identify root-lesion nematodes (<i>Pratylenchus brachyurus</i>).</li>
+              <li> Responsible for monitoring and statistical analysis of the vegetative stage of 3 different soybean cultivars in 3 population conditions.</li>
+            </ul>
+          <br></br>
           <p align="justify">
           Spring é um framework de código aberto para o desenvolvimento de aplicativos mais produtivos, representando 30% de participação de frameworks utilizadas para JAVA <a href="https://www.researchgate.net/profile/Sinisa-Randic/publication/321757987_Java_Spring_Boot_Rest_WEB_Service_Integration_with_Java_Artificial_Intellgence_Weka_Framework/links/5a305d44aca27271ec8a07f8/Java-Spring-Boot-Rest-WEB-Service-Integration-with-Java-Artificial-Intellgence-Weka-Framework.pdf">(Jovanović et al., 2017)</a>. Já o Spring Boot foi projetado para simplificar e facilitar o desenvolvimento de aplicativos Spring e, segundo <a href="https://www.amazon.com/Introducing-Spring-Framework-Felipe-Gutierrez-ebook-dp-B01HXJIR3C/dp/B01HXJIR3C/ref=mt_other?_encoding=UTF8&me=&qid=">GUTIERREZ (2014)</a>, dentre os conceitos principais, os mais importantes são: (i) configuração automática, (ii) dependências iniciais, (iii) interpretador de linha de comando e (iv) o atuador.
 O Spring foi a framework utilizada no desenvolvimento da nossa aplicação, justamente pela facilidade de ser utilizado, bem como a grande quantidade de material desenvolvido para a resolução de problemas de programação.
