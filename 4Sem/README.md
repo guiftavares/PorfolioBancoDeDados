@@ -2,7 +2,7 @@
   <body>
      <table align="center">
      <tr>
-       <td align="center"><a href="https://www.linkedin.com/in/guilhermeftavares/"><img style="border-radius: 50%;" src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/GuilhermeTavares.png" width="25%;" alt=""/><br/><sub><b>Guilherme Tavares</b></sub></a><br/><sub><b>Product Owner</b></sub></td>
+       <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/4Sem/images/vemPraCasa.png" width=50%></img></p>
      </tr>
     </table>
 
