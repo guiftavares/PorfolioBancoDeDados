@@ -2,34 +2,32 @@
   <body>
      <table align="center">
      <tr>
-       <td align="center"><a href="https://www.linkedin.com/in/guilhermeftavares/"><img style="border-radius: 50%;" src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/GuilhermeTavares.png" width="25%;" alt=""/><br/><sub><b>Guilherme Tavares</b></sub></a><br/><sub><b>Product Owner</b></sub></td>
+      <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/img_2Granja.png" width=75%></img></p>
      </tr>
     </table>
 
   <ol>
     <h3><li><b>Descrição do Projeto</b></li></h3>
     <p align="justify">
-      <a href="http://vempracasa.herokuapp.com/">#VEMPRACASA</a> é uma parceria entre a Oracle e a FATEC São José dos Campos com a finalidade de desenvolvimento de um Sistema para realização de agendamentos de eventos nos espaços da Casa Oracle, seguindo as normas vigentes de ocupação por conta da Pandemia do Coronavírus, tendo a possibilidade de priorização de acordo com regras de negócio, facilitando a inscrição e cadastro de convidados e aumentando o controle por parte dos organizadores.
+      Granja do Futuro é um aplicativo de Gestão de Propriedade para Avicultura de Corte focado no desempenho zootécnico, conforto e bem-estar animal. Com ele, o produtor tem acesso a dados financeiros – como valor do dólar, do ovo e dos insumos, bem como na geração de relatórios sobre sua propriedade e animais.</br>
+      O nome do aplicativo tem referência a Fazenda 4.0 e o uso da tecnologia na administração de propriedade. Além disso, utiliza-se de uma visão holística do negócio, informando e tomando como base de avaliação dados importantes sobre o animal e a propriedade como um todo.</br>  
     </p>
       <ol>
         <h4><li><b>Objetivo Geral</b></li></h4>
         <p align="justify">
-       Desenvolvimento de uma ferramenta para agendamento de eventos da Casa Oracle com a possibilidade de controle de lotação devido à Pandemia do Corana Vírus, garantindo maior seguridade aos convidados, organizadores e fornecedores.
+       Desenvolvimento de um aplicativo para gestão de propriedade para avicultura de postura, com foco no bem-estar dos animais.
         </p>
         <h4><li><b>Objetivos Específicos</b></li></h4>
         <p align="justify">
         Como objetivos específicos temos:
           <ul>
             <li>Uso de Metodologia Ágil para Planejamento, desenvolvimento de Backlog do Produto e consolidação do Mínimo Produto Viável (MVP) para cada Sprint;</li>
-            <li>Aperfeiçoamento do uso de Linguagem de Programação (Java, Typescript, Javascript e SQL) como parte do desenvolvimento acadêmico do curso de Tecnologia em Banco de Dados;</li>
-            <li>Uso de conceitos de UX/UI no desenvolvimento do sistema para facilitar o acesso e interação dos usuários;</li>
-            <li>Desenvolvimento de Ferramenta com níveis de acesso de usuário como forma de garantia de segurança do sistema;</li>
-            <li>Uso de Plataforma Cloud para deploy das aplicações desenvolvidas e garantia de melhor performance da ferramenta.</li>
+            <li>Utilização de Algoritmos e Lógica de Programação, utilizando <a href="https://appinventor.mit.edu/">AppInventor</a> e programação em blocos;</li>
           </ul>
           </p> 
         </ol>    
         <p align="justify">
-        A partir dos objetivos propostos, as Funcionalidades foram definidas de acordo com os usuários mapeados por meio da Metodologia Product Backlog Building (<a href="https://bityli.com/HaSYZr">AGUIAR; CAROLI, 2021</a>), que consiste num método de refinamento colaborativo para o desenvolvimento do backlog do produto. Além disso, o método auxilia na construção de um entendimento compartilhado do negócio, descreve a experiência do usuário com o produto, facilita a escrita de user stories, define o alinhamento e planejamento inicial e, consequentemente, produz um Product Backlog alinhado com as necessidades do cliente.</p> 
+        A partir dos objetivos propostos, o aplicativo foi dividido em duas funcionalidades: animal e propriedade. .</p> 
     </ol>
     <ol start="2"> 
     <h3><li><b>Tecnologias Utilizadas</b></li></h3>
