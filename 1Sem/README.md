@@ -27,9 +27,21 @@
           </p> 
         </ol>    
         <p align="justify">
-        A partir dos objetivos propostos, o aplicativo foi dividido em duas funcionalidades: animal e propriedade. .</p> 
-    </ol>
-    <ol start="2"> 
+        A partir dos objetivos propostos, o aplicativo foi dividido em duas funcionalidades: animal e propriedade.</br>
+        Na funcionalidade <b>animal</b> o usuário precisa utilizar informações provenientes de sensores comumentes utilizados em granjas de postura e que são de baixo custo, sendo essas informações: temperatura do ar (°C), umidade relativa do ar (%), velocidade do ar (m/s) e pressão atmosférica (mmHg). A partir desses valores, calcula-se a entalpia específica (kJ/Kg de ar seco) e esta classifca o estado de conforto em que o animal se encontra.
+        </p>
+        <details>
+        <summary><b>Funcionalidade Animal</b></summary>
+        <br>
+        <table aling="center">
+          <tr>
+            <td align="center"><img style="border-radius: 50%;" src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/2.PNG" widht="50%" alt=""/></td>
+            <td align="center"><img style="border-radius: 50%;" src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/3.PNG" widht="50%" alt=""/></td>
+            <td align="center"><img style="border-radius: 50%;" src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/4.PNG" widht="50%" alt=""/></td>
+          </tr>
+        </table>
+  </ol>
+  <ol start="2"> 
     <h3><li><b>Tecnologias Utilizadas</b></li></h3>
       <p align="justify">
       As principais tecnologias utilizadas para o desenvolvimento do Sistema, são:
