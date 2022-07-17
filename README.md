@@ -20,13 +20,13 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </div>
 <div class="semestre2">
 <ul>◻️ <a href="#processos-otimizados-de-contas">2º Semestre de 2020 • Processos Otimizados de Contas</a>
-<ul>◻️ <a href="#arquitetura-do-projeto">Arquitetura do Projeto</a></ul>
-<ul>◻️ <a href="#prévia-da-solução">Prévia da Solução</a></ul>
-<ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
-<ul>◻️ <a href="#contribuições-pessoais">Contribuições Pessoais</a></ul>
-<ul>◻️ <a href="#lições-aprendidas">Lições Aprendidas</a>
-<ul>◻️ <a href="#hard-skills">Hard Skills</a></ul>
-<ul>◻️ <a href="#hard-skills">Soft Skills</a></ul>
+<ul>◻️ <a href="#arquitetura-do-projeto-">Arquitetura do Projeto</a></ul>
+<ul>◻️ <a href="#prévia-da-solução-">Prévia da Solução</a></ul>
+<ul>◻️ <a href="#tecnologias-utilizadas-">Tecnologias Utilizadas</a></ul>
+<ul>◻️ <a href="#contribuições-pessoais-">Contribuições Pessoais</a></ul>
+<ul>◻️ <a href="#lições-aprendidas-">Lições Aprendidas</a>
+<ul>◻️ <a href="#hard-skills-">Hard Skills</a></ul>
+<ul>◻️ <a href="#hard-skills-">Soft Skills</a></ul>
 </ul>
 </ul>
 </div>
@@ -86,12 +86,12 @@ A partir desses valores, calcula-se a entalpia específica (kJ/Kg de ar seco) e 
 <br>
 <div class="semestre2">
 <h3>Processos Otimizados de Contas</h3>
-<h3>Arquitetura do Projeto</h3>
-<h3>Prévia da Solução</h3>
-<h3>Tecnologias Utilizadas</h3>
-<h3>Contribuições Pessoais</h3>
-<h3>Lições Aprendidas</h3>
-<h3>Hard Skills</h3>
-<h3>Soft Skills</h3>
+<h3>Arquitetura do Projeto </h3>
+<h3>Prévia da Solução </h3>
+<h3>Tecnologias Utilizadas </h3>
+<h3>Contribuições Pessoais </h3>
+<h3>Lições Aprendidas </h3>
+<h3>Hard Skills </h3>
+<h3>Soft Skills </h3>
 </div>
 
