@@ -56,6 +56,27 @@ Com ele, o produtor tem acesso a dados financeiros – como valor do dólar, do 
 <h3>Arquitetura do Projeto</h3>
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/GranjaDoFuturo.png" width="100%"></img></p>
 <h3>Prévia da Solução</h3>
+<p align="justify">A partir dos objetivos propostos, o aplicativo foi dividido em duas funcionalidades: animal e propriedade.</p>
+<p align="justify">Na <b>funcionalidade animal</b>, o usuário pode optar pela obtenção do conforto animal por meio automático, conectado a 
+<a href="https://advisor.climatempo.com.br/">API Advisor</a> fornecida pelo site <a href="https://www.climatempo.com.br/">ClimaTempo</a>, 
+ou pode utilizar no modo manual, em que necessita de informações provenientes de sensores comumente utilizados em granjas de postura e que 
+são de baixo custo, sendo essas informações: temperatura do ar (°C), umidade relativa do ar (%), velocidade do ar (m/s) e pressão atmosférica (mmHg). 
+A partir desses valores, calcula-se a entalpia específica (kJ/Kg de ar seco) e esta classifca o estado de conforto em que o animal se encontra.</p>
+<details>
+  <summary><b>Funcionalidade Animal</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img style="border-radius: 50%;" src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/2.PNG" widht="30%" alt=""/>
+      </td>
+      <td alignt="center"><img style="border-radius: 50%;" src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/3.PNG" widht="30%" alt=""/>
+      </td>
+      <td alignt="center"><img style="border-radius: 50%;" src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/4.PNG" widht="30%" alt=""/>
+      </td>
+    </tr>
+  </table>
+</details>
+
 <h3>Tecnologias Utilizadas</h3>
 <h3>Contribuições Pessoais</h3>
 <h3>Lições Aprendidas</h3>
