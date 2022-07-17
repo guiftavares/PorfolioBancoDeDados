@@ -49,10 +49,12 @@ departamento jurídico.</p>
 <h2>Meus Projetos</h2>
 <h3>Granja do Futuro</h3>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/granja_futuro_img.png" widht="20%"></img>
 <p align="justify">Granja do Futuro é um aplicativo de Gestão de Propriedade para Avicultura de Corte focado no desempenho zootécnico, conforto e bem-estar animal. 
 Com ele, o produtor tem acesso a dados financeiros – como valor do dólar, do ovo e dos insumos, bem como na geração de relatórios sobre sua propriedade e animais.</p>
 <p align="justify">O nome do aplicativo tem referência a Fazenda 4.0 e o uso da tecnologia na administração de propriedade. Além disso, utiliza-se de uma visão holística do negócio, informando e tomando como base de avaliação dados importantes sobre o animal e a propriedade como um todo.</p>
 <h3>Arquitetura do Projeto</h3>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/GranjaDoFuturo.png" width="100%"></img></p>
 <h3>Prévia da Solução</h3>
 <h3>Tecnologias Utilizadas</h3>
 <h3>Contribuições Pessoais</h3>
