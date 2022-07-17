@@ -8,7 +8,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <h2>Sobre mim</h2>
 <table>
   <tr>
-    <td width="400px">
+    <td width="200px">
     <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/GuilhermeTavares.png" align= "center"></img>
     </td>
     <td>
