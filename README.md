@@ -4,6 +4,7 @@ apresentado à Faculdade de Tecnologia de São José dos Campos,
 como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 <hr>
 <h2>Sumário</h2>
+◼️ <a href="#sobre-mim">Sobre mim</a>
 <hr>
 <h2>Sobre mim</h2>
 <table>
