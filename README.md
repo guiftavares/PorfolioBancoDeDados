@@ -8,8 +8,8 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <h2>Sobre mim</h2>
 <table>
   <tr>
-    <td width="200px">
-    <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/GuilhermeTavares.png" align= "center"></img>
+    <td width="30%">
+    <img src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/GuilhermeTavares.png" align="center"></img>
     </td>
     <td>
     <p align="justify">Mestre em Engenharia de Sistemas Agrícolas pela Universidade de São Paulo(USP), bacharel em Engenharia Agrícola e Ambiental
@@ -23,5 +23,3 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
     ágil para o time de suporte de finanças.</p>
     </td>
 </table>
-
-
