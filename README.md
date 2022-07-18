@@ -53,8 +53,10 @@ departamento jurídico.</p>
 <p align="justify">Granja do Futuro é um aplicativo de Gestão de Propriedade para Avicultura de Corte focado no desempenho zootécnico, conforto e bem-estar animal. 
 Com ele, o produtor tem acesso a dados financeiros – como valor do dólar, do ovo e dos insumos, bem como na geração de relatórios sobre sua propriedade e animais.</p>
 <p align="justify">O nome do aplicativo tem referência a Fazenda 4.0 e o uso da tecnologia na administração de propriedade. Além disso, utiliza-se de uma visão holística do negócio, informando e tomando como base de avaliação dados importantes sobre o animal e a propriedade como um todo.</p>
+<br>
 <h3>Arquitetura do Projeto</h3>
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/GranjaDoFuturo.png" width="100%"></img></p>
+<br>
 <h3>Prévia da Solução</h3>
 <p align="justify">A partir dos objetivos propostos, o aplicativo foi dividido em duas funcionalidades: animal e propriedade.</p>
 <p align="justify">Na <b>funcionalidade animal</b>, o usuário pode optar pela obtenção do conforto animal por meio automático, conectado a 
@@ -67,21 +69,139 @@ A partir desses valores, calcula-se a entalpia específica (kJ/Kg de ar seco) e 
   <br>
   <table align="center">
     <tr>
-      <td alignt="center"><img style="border-radius: 50%;" src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/2.PNG" widht="30%" alt=""/>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/2.PNG" alt=""/>
       </td>
-      <td alignt="center"><img style="border-radius: 50%;" src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/3.PNG" widht="30%" alt=""/>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/3.PNG" alt=""/>
       </td>
-      <td alignt="center"><img style="border-radius: 50%;" src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/4.PNG" widht="30%" alt=""/>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/4.PNG" alt=""/>
       </td>
     </tr>
   </table>
 </details>
-
+<p align="justify">Já na <b>funcionalidade propriedade</b>, o usuário consegue ter uma visão geral da produção e produtividade de sua granja fornencendo algumas informações obrigatórios como número de animais em produção, quantidade de ovos produzidos diariamente, número de animais mortos, número de ovos usados para pesagem e o peso da quantidade de ovos utilizados, respectivamente.</p>
+<details>
+  <summary><b>Funcionalidade Propriedade</b></summary>
+  <br>
+  <p align="left"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/app_gif.gif" width="50%" alt=""/></p> 
+</details>
+<p align="justify">Por fim, o aplicativo Granja do Futuro conta com a <b>funcionalidade gerar relatório</b>, na qual o produtor tem a possibilidade de verificar a 
+condição de sua propriedade e do bem-estar de seus animais ao longo de determinado período de tempo.</p>
+<details>
+  <summary><b>Funcionalidade Gerar Relatórios</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/10.PNG" alt=""/>
+      </td>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/11.PNG" alt=""/>
+      </td>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/12.PNG" alt=""/>
+      </td>
+    </tr>
+  </table>
+</details>
+<br>
 <h3>Tecnologias Utilizadas</h3>
+<p align="justify"><a href="https://appinventor.mit.edu/">AppInventor:</a> para desenvolvimento do aplicativo mobile.</p>
+<p align="justify"><a href="https://developers.google.com/blockly">Blockly:</a> linguagem de programação para o desenvolvimento back-end.</p>
+<p align="justify"><a href="https://firebase.google.com/">Firebase:</a> para integração com o Web Server e armazenamento dos dados dos itens cadastrados</p>
+<p align="justify"><a href="https://www.figma.com/">Figma:</a> para o desenvolvimento e prototipação das wireframes.</p>
+<br>
 <h3>Contribuições Pessoais</h3>
+<p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto, 
+fui responsável pela criação e prototipação das wireframes. Além disso, contribuí com o desenvolvimento da lógica matemática por trás da aplicação e do desenvolvimento da funcionalidade animal.</p>
+<ul>
+  <li>Definição dos requisitos.</li>
+  <li>UX/UI design.</li>
+  <li>Prototipação das wireframes.</li>
+  <li>Arquitetura da aplicação</li>
+  <li>Desenvolvimento da funcionalidade animal - front-end e back-end.</li>
+</ul>
+<br>
 <h3>Lições Aprendidas</h3>
+<p align="justify">Tive o meu primeiro contato com o Scrum e com a função de Product Owner, neste semestre desenhei a primeira arquitetura de software com suas 
+integrações. Além disso, iniciei meus estudos em UX design e pude aplicar o que foi aprendido em algoritmos utilizando a linguagem blockly para desenvolvimento 
+do aplicativo.</p>
+<br>
 <h3>Hard Skills</h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>AppInventor</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Blockly</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Firebase</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Scrum - Product Owner</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Design Thinking</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI design</td>
+      <td>★★☆☆☆</td>
+    </tr>
+  </table>
+</details>
+<br>
 <h3>Soft Skills</h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★☆☆☆</td>
+    </tr>
+  </table>
+</details>
 </div>
 <br>
 <div class="semestre2">
