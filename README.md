@@ -122,7 +122,6 @@ fui responsável pela criação e prototipação das wireframes. Além disso, co
 <p align="justify">Tive o meu primeiro contato com o Scrum e com a função de Product Owner, neste semestre desenhei a primeira arquitetura de software com suas 
 integrações. Além disso, iniciei meus estudos em UX design e pude aplicar o que foi aprendido em algoritmos utilizando a linguagem blockly para desenvolvimento 
 do aplicativo.</p>
-<br>
 <h3>Hard Skills</h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
@@ -162,7 +161,6 @@ do aplicativo.</p>
     </tr>
   </table>
 </details>
-<br>
 <h3>Soft Skills</h3>
 <details>
 <summary><b>Clique para ver a lista de soft skills</b></summary>
@@ -203,9 +201,25 @@ do aplicativo.</p>
   </table>
 </details>
 </div>
-<br>
+<hr>
 <div class="semestre2">
 <h3>Processos Otimizados de Contas</h3>
+<p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">TecSUS Tecnologias para a Sustentabilidade</a></p>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/2Sem/poc_img.png" widht="20%"></img>
+<p align="justify">POC, Processos Otimizados de Contas, é uma aplicação que facilita e otimiza a inserção de informações de contas despradonizadas de energia e água. Devido a grande diversidade de layouts nas contas de água e energia no Brasil, a digitalização dos dados de interesse para empresa, torna-se uma tarefa árdua e dispendiosa.</p>
+<p align="justify">Dessa forma, a aplicação POC tem o objetivo de facilitar o trabalho com a digitação de dados fornecendo uma plataforma simples, objetiva, exclusiva e funcional.</p>
+<h3>Arquitetura do Projeto </h3>
+<h3>Prévia da Solução </h3>
+<h3>Tecnologias Utilizadas </h3>
+<h3>Contribuições Pessoais </h3>
+<h3>Lições Aprendidas </h3>
+<h3>Hard Skills </h3>
+<h3>Soft Skills </h3>
+</div>
+<div class="semestre3">
+<h3>Processos Otimizados de Contas</h3>
+<p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">TecSUS Tecnologias para a Sustentabilidade</a></p>
+<p align="center"><img src="" widht="20%"></img>
 <h3>Arquitetura do Projeto </h3>
 <h3>Prévia da Solução </h3>
 <h3>Tecnologias Utilizadas </h3>
