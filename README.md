@@ -212,6 +212,17 @@ do aplicativo.</p>
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/2Sem/arquitetura_poc.png"></img></p>
 <br>
 <h3>Prévia da Solução </h3>
+<p align="justify">Com o objetivo de padronizar a inserção de dados das contas de água e energia, a aplicação desktop possibilita o cadastro de clientes e fornecedores de energia e/ou água, facilitando a obtenção dessas informações ao cadastrar uma nova conta. Além disso, a aplicação necessita apenas que o digitador insira os dados de interesse das contas de energia e/ou água, agilizando o processo de digitação.</p>
+<details>
+  <summary><b>Funcionalidade Cadastrar Fornecedor e Conta</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/2Sem/poc_app.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
 <h3>Tecnologias Utilizadas </h3>
 <h3>Contribuições Pessoais </h3>
 <h3>Lições Aprendidas </h3>
