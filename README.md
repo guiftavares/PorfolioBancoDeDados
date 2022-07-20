@@ -209,7 +209,7 @@ do aplicativo.</p>
 <p align="justify">POC, <a href="https://github.com/MikeBBatista/pi-fatec-java">Processos Otimizados de Contas</a>, é uma aplicação que facilita e otimiza a inserção de informações de contas despradonizadas de energia e água. Devido a grande diversidade de layouts nas contas de água e energia no Brasil, a digitalização dos dados de interesse para empresa, torna-se uma tarefa árdua e dispendiosa.</p>
 <p align="justify">Dessa forma, a aplicação POC tem o objetivo de facilitar o trabalho com a digitação de dados fornecendo uma plataforma simples, objetiva, exclusiva e funcional.</p>
 <h3>Arquitetura do Projeto </h3>
-<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/2Sem/POC_arq.png" width="100%"></img></p>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/2Sem/POC_arq.png"></img></p>
 <br>
 <h3>Prévia da Solução </h3>
 <h3>Tecnologias Utilizadas </h3>
