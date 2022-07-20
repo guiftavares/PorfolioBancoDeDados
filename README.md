@@ -133,31 +133,31 @@ do aplicativo.</p>
     </tr>
     <tr>
       <td>AppInventor</td>
-      <td>★★★☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>Blockly</td>
-      <td>★★★☆☆</td>
+      <td>★★★★☆☆☆☆☆☆</td>
     </tr>
     <tr>
       <td>Firebase</td>
-      <td>★★☆☆☆</td>
+      <td>★★★★☆☆☆☆☆☆</td>
     </tr>
     <tr>
       <td>Figma</td>
-      <td>★★★★☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>Scrum - Product Owner</td>
-      <td>★★★☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>Design Thinking</td>
-      <td>★★★☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>UX/UI design</td>
-      <td>★★☆☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
   </table>
 </details>
@@ -172,31 +172,31 @@ do aplicativo.</p>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>Visão de Negócio</td>
-      <td>★★★☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>Comunicação Assertiva</td>
-      <td>★★★☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>Empatia</td>
-      <td>★★★☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>Inteligência Emocional</td>
-      <td>★★★☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>Organização e Planejamento</td>
-      <td>★★★☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
     <tr>
       <td>Resiliência</td>
-      <td>★★☆☆☆</td>
+      <td>★★★★★★☆☆☆☆</td>
     </tr>
   </table>
 </details>
@@ -206,9 +206,11 @@ do aplicativo.</p>
 <h3>Processos Otimizados de Contas</h3>
 <p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">TecSUS Tecnologias para a Sustentabilidade</a></p>
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/2Sem/poc_img.png" widht="20%"></img>
-<p align="justify">POC, Processos Otimizados de Contas, é uma aplicação que facilita e otimiza a inserção de informações de contas despradonizadas de energia e água. Devido a grande diversidade de layouts nas contas de água e energia no Brasil, a digitalização dos dados de interesse para empresa, torna-se uma tarefa árdua e dispendiosa.</p>
+<p align="justify">POC, <a href="https://github.com/MikeBBatista/pi-fatec-java">Processos Otimizados de Contas</a>, é uma aplicação que facilita e otimiza a inserção de informações de contas despradonizadas de energia e água. Devido a grande diversidade de layouts nas contas de água e energia no Brasil, a digitalização dos dados de interesse para empresa, torna-se uma tarefa árdua e dispendiosa.</p>
 <p align="justify">Dessa forma, a aplicação POC tem o objetivo de facilitar o trabalho com a digitação de dados fornecendo uma plataforma simples, objetiva, exclusiva e funcional.</p>
 <h3>Arquitetura do Projeto </h3>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/2Sem/POC_arq.png" width="100%"></img></p>
+<br>
 <h3>Prévia da Solução </h3>
 <h3>Tecnologias Utilizadas </h3>
 <h3>Contribuições Pessoais </h3>
