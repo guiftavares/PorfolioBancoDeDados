@@ -7,7 +7,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p>◻️ <a href="#sobre-mim">Sobre mim</a></p>
 <p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre1">
-<ul>◻️ <a href="#granja-do-futuro">1º Semestre/2020 • Granja do Futuro</a>
+<ul><a href="#granja-do-futuro">1º Semestre/2020 • Granja do Futuro</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto">Arquitetura do Projeto</a></ul>
@@ -22,7 +22,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre2">
-<ul>◻️ <a href="#processos-otimizados-de-contas">2º Semestre/2020 • Processos Otimizados de Contas</a>
+<ul><a href="#processos-otimizados-de-contas">2º Semestre/2020 • Processos Otimizados de Contas</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto-">Arquitetura do Projeto</a></ul>
@@ -38,7 +38,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </div>
 </div>
 <div class="semestre3">
-<ul>◻️ <a href="#airplan">3º Semestre/2021 • airPLAN</a>
+<ul><a href="#airplan">3º Semestre/2021 • airPLAN</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto--">Arquitetura do Projeto</a></ul>
@@ -53,7 +53,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre4">
-<ul>◻️ <a href="#vempracasa">4º Semestre/2021 • #VEMPRACASA</a>
+<ul><a href="#vempracasa">4º Semestre/2021 • #VEMPRACASA</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto---">Arquitetura do Projeto</a></ul>
@@ -68,7 +68,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre5">
-<ul>◻️ <a href="#data-rangers">5º Semestre/2022 • Data Rangers</a>
+<ul><a href="#data-rangers">5º Semestre/2022 • Data Rangers</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto----">Arquitetura do Projeto</a></ul>
@@ -83,7 +83,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre6">
-<ul>◻️ <a href="#work-in-progress">6º Semestre/2022 • Work in Progress</a>
+<ul><a href="#work-in-progress">6º Semestre/2022 • Work in Progress</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto-----">Arquitetura do Projeto</a></ul>
