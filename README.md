@@ -7,7 +7,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p>◻️ <a href="#sobre-mim">Sobre mim</a></p>
 <p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre1">
-<ul>◻️ <a href="#granja-do-futuro">1º Semestre de 2020 • Granja do Futuro</a>
+<ul>◻️ <a href="#granja-do-futuro">1º Semestre/2020 • Granja do Futuro</a>
 <ul>◻️ <a href="#arquitetura-do-projeto">Arquitetura do Projeto</a></ul>
 <ul>◻️ <a href="#prévia-da-solução">Prévia da Solução</a></ul>
 <ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
@@ -19,7 +19,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre2">
-<ul>◻️ <a href="#processos-otimizados-de-contas">2º Semestre de 2020 • Processos Otimizados de Contas</a>
+<ul>◻️ <a href="#processos-otimizados-de-contas">2º Semestre/2020 • Processos Otimizados de Contas</a>
 <ul>◻️ <a href="#arquitetura-do-projeto-">Arquitetura do Projeto</a></ul>
 <ul>◻️ <a href="#prévia-da-solução-">Prévia da Solução</a></ul>
 <ul>◻️ <a href="#tecnologias-utilizadas-">Tecnologias Utilizadas</a></ul>
@@ -27,6 +27,43 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <ul>◻️ <a href="#lições-aprendidas-">Lições Aprendidas</a>
 <ul>◻️ <a href="#hard-skills-">Hard Skills</a></ul>
 <ul>◻️ <a href="#hard-skills-">Soft Skills</a></ul>
+</ul>
+</ul>
+</div>
+</div>
+<div class="semestre3">
+<ul>◻️ <a href="#airplan">3º Semestre/2021 • airPLAN</a>
+<ul>◻️ <a href="#arquitetura-do-projeto--">Arquitetura do Projeto</a></ul>
+<ul>◻️ <a href="#prévia-da-solução--">Prévia da Solução</a></ul>
+<ul>◻️ <a href="#tecnologias-utilizadas--">Tecnologias Utilizadas</a></ul>
+<ul>◻️ <a href="#contribuições-pessoais--">Contribuições Pessoais</a></ul>
+<ul>◻️ <a href="#lições-aprendidas--">Lições Aprendidas</a>
+<ul>◻️ <a href="#hard-skills--">Hard Skills</a></ul>
+<ul>◻️ <a href="#hard-skills--">Soft Skills</a></ul>
+</ul>
+</ul>
+</div>
+<div class="semestre4">
+<ul>◻️ <a href="#vempracasa">4º Semestre/2021 • #VEMPRACASA</a>
+<ul>◻️ <a href="#arquitetura-do-projeto---">Arquitetura do Projeto</a></ul>
+<ul>◻️ <a href="#prévia-da-solução---">Prévia da Solução</a></ul>
+<ul>◻️ <a href="#tecnologias-utilizadas---">Tecnologias Utilizadas</a></ul>
+<ul>◻️ <a href="#contribuições-pessoais---">Contribuições Pessoais</a></ul>
+<ul>◻️ <a href="#lições-aprendidas---">Lições Aprendidas</a>
+<ul>◻️ <a href="#hard-skills---">Hard Skills</a></ul>
+<ul>◻️ <a href="#hard-skills---">Soft Skills</a></ul>
+</ul>
+</ul>
+</div>
+<div class="semestre5">
+<ul>◻️ <a href="#data-rangers">5º Semestre/2021 • Data Rangers</a>
+<ul>◻️ <a href="#arquitetura-do-projeto----">Arquitetura do Projeto</a></ul>
+<ul>◻️ <a href="#prévia-da-solução----">Prévia da Solução</a></ul>
+<ul>◻️ <a href="#tecnologias-utilizadas----">Tecnologias Utilizadas</a></ul>
+<ul>◻️ <a href="#contribuições-pessoais----">Contribuições Pessoais</a></ul>
+<ul>◻️ <a href="#lições-aprendidas----">Lições Aprendidas</a>
+<ul>◻️ <a href="#hard-skills----">Hard Skills</a></ul>
+<ul>◻️ <a href="#hard-skills----">Soft Skills</a></ul>
 </ul>
 </ul>
 </div>
@@ -145,19 +182,19 @@ do aplicativo.</p>
     </tr>
     <tr>
       <td>Figma</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★☆☆☆☆☆☆</td>
     </tr>
     <tr>
       <td>Scrum - Product Owner</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★☆☆☆☆☆☆</td>
     </tr>
     <tr>
       <td>Design Thinking</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★☆☆☆☆☆☆</td>
     </tr>
     <tr>
       <td>UX/UI design</td>
-      <td>★★★★★★☆☆☆☆</td>
+      <td>★★★★☆☆☆☆☆☆</td>
     </tr>
   </table>
 </details>
@@ -253,20 +290,130 @@ do aplicativo.</p>
 <p align="justify"><a href="https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers">Eclipse Java:</a> IDE utilizada para a programação da aplicação.</p>
 <br>
 <h3>Contribuições Pessoais </h3>
+<p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto, 
+fui responsável pela criação e prototipação das wireframes e avancei nos estudos de UX/UI. Além disso, fui responsável pelo desenvolvimento e arquitetura da funcionalidade cadastro de fornecedor, construção de classes, manipulação de objetos e criação de telas utilizando JAVA e o GUI Builder da IDE Eclipse.</p>
+<ul>
+  <li>Definição dos requisitos.</li>
+  <li>UX/UI design.</li>
+  <li>Prototipação das wireframes.</li>
+  <li>Arquitetura da aplicação.</li>
+  <li>Desenvolvimento, construção de classes e manipulação dos objetos.</li>
+  <li>Desenvolvimento front-end utilizando GUI Builder</li>
+</ul>
+<br>
 <h3>Lições Aprendidas </h3>
+<p align="justify">Tive o meu primeiro contato com programação em Java, programação orientada à objetos e modelagem de banco de dados. Além disso, pude avançar em relação aos meus estudos como Product Owner e UX/UI designer.</p>
 <h3>Hard Skills </h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Modelagem de Banco de Dados</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Scrum - Product Owner</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI design</td>
+      <td>★★★★☆☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
 <h3>Soft Skills </h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
 </div>
+<hr>
 <div class="semestre3">
-<h3>Processos Otimizados de Contas</h3>
-<p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">TecSUS Tecnologias para a Sustentabilidade</a></p>
+<h3>airPLAN</h3>
+<p align="justify">Parceiro Acadêmico: <a href="https://embraer.com/br/pt">Embraer</a></p>
 <p align="center"><img src="" widht="20%"></img>
-<h3>Arquitetura do Projeto </h3>
-<h3>Prévia da Solução </h3>
-<h3>Tecnologias Utilizadas </h3>
-<h3>Contribuições Pessoais </h3>
-<h3>Lições Aprendidas </h3>
-<h3>Hard Skills </h3>
-<h3>Soft Skills </h3>
+<h3>Arquitetura do Projeto  </h3>
+<h3>Prévia da Solução  </h3>
+<h3>Tecnologias Utilizadas  </h3>
+<h3>Contribuições Pessoais  </h3>
+<h3>Lições Aprendidas  </h3>
+<h3>Hard Skills  </h3>
+<h3>Soft Skills  </h3>
 </div>
-
+<hr>
+<div class="semestre4">
+<h3>VEMPRACASA</h3>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.oracle.com/br/index.html">Oracle</a></p>
+<p align="center"><img src="" widht="20%"></img>
+<h3>Arquitetura do Projeto   </h3>
+<h3>Prévia da Solução   </h3>
+<h3>Tecnologias Utilizadas   </h3>
+<h3>Contribuições Pessoais   </h3>
+<h3>Lições Aprendidas   </h3>
+<h3>Hard Skills   </h3>
+<h3>Soft Skills   </h3>
+</div>
+<hr>
+<div class="semestre5">
+<h3>Data Rangers</h3>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.spcbrasil.org.br/">SPC Brasil</a></p>
+<p align="center"><img src="" widht="20%"></img>
+<h3>Arquitetura do Projeto    </h3>
+<h3>Prévia da Solução    </h3>
+<h3>Tecnologias Utilizadas    </h3>
+<h3>Contribuições Pessoais    </h3>
+<h3>Lições Aprendidas    </h3>
+<h3>Hard Skills    </h3>
+<h3>Soft Skills    </h3>
+</div>
