@@ -412,8 +412,10 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <div class="semestre3">
 <h3>airPLAN</h3>
 <p align="justify">Parceiro Acadêmico: <a href="https://embraer.com/br/pt">Embraer</a></p>
-<p align="center"><img src="" widht="20%"></img>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/3Sem/airplan_logo.png" widht="20%"></img>
 <h3>Arquitetura do Projeto  </h3>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/3Sem/airPlan_arq.png" width="100%"></img></p>
+<br>
 <h3>Prévia da Solução  </h3>
 <h3>Tecnologias Utilizadas  </h3>
 <h3>Contribuições Pessoais  </h3>
