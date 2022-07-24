@@ -8,63 +8,93 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre1">
 <ul>◻️ <a href="#granja-do-futuro">1º Semestre/2020 • Granja do Futuro</a>
-<ul>◻️ <a href="#arquitetura-do-projeto">Arquitetura do Projeto</a></ul>
-<ul>◻️ <a href="#prévia-da-solução">Prévia da Solução</a></ul>
-<ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
-<ul>◻️ <a href="#contribuições-pessoais">Contribuições Pessoais</a></ul>
-<ul>◻️ <a href="#lições-aprendidas">Lições Aprendidas</a>
-<ul>◻️ <a href="#hard-skills">Hard Skills</a></ul>
-<ul>◻️ <a href="#hard-skills">Soft Skills</a></ul>
-</ul>
+  <details>
+    <summary>Detalhes</summary>
+    <ul>◻️ <a href="#arquitetura-do-projeto">Arquitetura do Projeto</a></ul>
+    <ul>◻️ <a href="#prévia-da-solução">Prévia da Solução</a></ul>
+    <ul>◻️ <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></ul>
+    <ul>◻️ <a href="#contribuições-pessoais">Contribuições Pessoais</a></ul>
+    <ul>◻️ <a href="#lições-aprendidas">Lições Aprendidas</a>
+    <ul>◻️ <a href="#hard-skills">Hard Skills</a></ul>
+    <ul>◻️ <a href="#hard-skills">Soft Skills</a></ul>
+    </ul>
+  </details>
 </ul>
 </div>
 <div class="semestre2">
 <ul>◻️ <a href="#processos-otimizados-de-contas">2º Semestre/2020 • Processos Otimizados de Contas</a>
-<ul>◻️ <a href="#arquitetura-do-projeto-">Arquitetura do Projeto</a></ul>
-<ul>◻️ <a href="#prévia-da-solução-">Prévia da Solução</a></ul>
-<ul>◻️ <a href="#tecnologias-utilizadas-">Tecnologias Utilizadas</a></ul>
-<ul>◻️ <a href="#contribuições-pessoais-">Contribuições Pessoais</a></ul>
-<ul>◻️ <a href="#lições-aprendidas-">Lições Aprendidas</a>
-<ul>◻️ <a href="#hard-skills-">Hard Skills</a></ul>
-<ul>◻️ <a href="#hard-skills-">Soft Skills</a></ul>
-</ul>
+  <details>
+    <summary>Detalhes</summary>
+    <ul>◻️ <a href="#arquitetura-do-projeto-">Arquitetura do Projeto</a></ul>
+    <ul>◻️ <a href="#prévia-da-solução-">Prévia da Solução</a></ul>
+    <ul>◻️ <a href="#tecnologias-utilizadas-">Tecnologias Utilizadas</a></ul>
+    <ul>◻️ <a href="#contribuições-pessoais-">Contribuições Pessoais</a></ul>
+    <ul>◻️ <a href="#lições-aprendidas-">Lições Aprendidas</a>
+    <ul>◻️ <a href="#hard-skills-">Hard Skills</a></ul>
+    <ul>◻️ <a href="#hard-skills-">Soft Skills</a></ul>
+    </ul>
+  </details>
 </ul>
 </div>
 </div>
 <div class="semestre3">
 <ul>◻️ <a href="#airplan">3º Semestre/2021 • airPLAN</a>
-<ul>◻️ <a href="#arquitetura-do-projeto--">Arquitetura do Projeto</a></ul>
-<ul>◻️ <a href="#prévia-da-solução--">Prévia da Solução</a></ul>
-<ul>◻️ <a href="#tecnologias-utilizadas--">Tecnologias Utilizadas</a></ul>
-<ul>◻️ <a href="#contribuições-pessoais--">Contribuições Pessoais</a></ul>
-<ul>◻️ <a href="#lições-aprendidas--">Lições Aprendidas</a>
-<ul>◻️ <a href="#hard-skills--">Hard Skills</a></ul>
-<ul>◻️ <a href="#hard-skills--">Soft Skills</a></ul>
-</ul>
+  <details>
+    <summary>Detalhes</summary>
+    <ul>◻️ <a href="#arquitetura-do-projeto--">Arquitetura do Projeto</a></ul>
+    <ul>◻️ <a href="#prévia-da-solução--">Prévia da Solução</a></ul>
+    <ul>◻️ <a href="#tecnologias-utilizadas--">Tecnologias Utilizadas</a></ul>
+    <ul>◻️ <a href="#contribuições-pessoais--">Contribuições Pessoais</a></ul>
+    <ul>◻️ <a href="#lições-aprendidas--">Lições Aprendidas</a>
+    <ul>◻️ <a href="#hard-skills--">Hard Skills</a></ul>
+    <ul>◻️ <a href="#hard-skills--">Soft Skills</a></ul>
+    </ul>
+  </details>
 </ul>
 </div>
 <div class="semestre4">
 <ul>◻️ <a href="#vempracasa">4º Semestre/2021 • #VEMPRACASA</a>
-<ul>◻️ <a href="#arquitetura-do-projeto---">Arquitetura do Projeto</a></ul>
-<ul>◻️ <a href="#prévia-da-solução---">Prévia da Solução</a></ul>
-<ul>◻️ <a href="#tecnologias-utilizadas---">Tecnologias Utilizadas</a></ul>
-<ul>◻️ <a href="#contribuições-pessoais---">Contribuições Pessoais</a></ul>
-<ul>◻️ <a href="#lições-aprendidas---">Lições Aprendidas</a>
-<ul>◻️ <a href="#hard-skills---">Hard Skills</a></ul>
-<ul>◻️ <a href="#hard-skills---">Soft Skills</a></ul>
-</ul>
+  <details>
+    <summary>Detalhes</summary>
+    <ul>◻️ <a href="#arquitetura-do-projeto---">Arquitetura do Projeto</a></ul>
+    <ul>◻️ <a href="#prévia-da-solução---">Prévia da Solução</a></ul>
+    <ul>◻️ <a href="#tecnologias-utilizadas---">Tecnologias Utilizadas</a></ul>
+    <ul>◻️ <a href="#contribuições-pessoais---">Contribuições Pessoais</a></ul>
+    <ul>◻️ <a href="#lições-aprendidas---">Lições Aprendidas</a>
+    <ul>◻️ <a href="#hard-skills---">Hard Skills</a></ul>
+    <ul>◻️ <a href="#hard-skills---">Soft Skills</a></ul>
+    </ul>
+  </details>
 </ul>
 </div>
 <div class="semestre5">
 <ul>◻️ <a href="#data-rangers">5º Semestre/2022 • Data Rangers</a>
-<ul>◻️ <a href="#arquitetura-do-projeto----">Arquitetura do Projeto</a></ul>
-<ul>◻️ <a href="#prévia-da-solução----">Prévia da Solução</a></ul>
-<ul>◻️ <a href="#tecnologias-utilizadas----">Tecnologias Utilizadas</a></ul>
-<ul>◻️ <a href="#contribuições-pessoais----">Contribuições Pessoais</a></ul>
-<ul>◻️ <a href="#lições-aprendidas----">Lições Aprendidas</a>
-<ul>◻️ <a href="#hard-skills----">Hard Skills</a></ul>
-<ul>◻️ <a href="#hard-skills----">Soft Skills</a></ul>
+  <details>
+    <summary>Detalhes</summary>
+    <ul>◻️ <a href="#arquitetura-do-projeto----">Arquitetura do Projeto</a></ul>
+    <ul>◻️ <a href="#prévia-da-solução----">Prévia da Solução</a></ul>
+    <ul>◻️ <a href="#tecnologias-utilizadas----">Tecnologias Utilizadas</a></ul>
+    <ul>◻️ <a href="#contribuições-pessoais----">Contribuições Pessoais</a></ul>
+    <ul>◻️ <a href="#lições-aprendidas----">Lições Aprendidas</a>
+    <ul>◻️ <a href="#hard-skills----">Hard Skills</a></ul>
+    <ul>◻️ <a href="#hard-skills----">Soft Skills</a></ul>
+    </ul>
+  </details>
 </ul>
+</div>
+<div class="semestre6">
+<ul>◻️ <a href="#work-in-progress">6º Semestre/2022 • Work in Progress</a>
+  <details>
+    <summary>Detalhes</summary>
+    <ul>◻️ <a href="#arquitetura-do-projeto-----">Arquitetura do Projeto</a></ul>
+    <ul>◻️ <a href="#prévia-da-solução-----">Prévia da Solução</a></ul>
+    <ul>◻️ <a href="#tecnologias-utilizadas-----">Tecnologias Utilizadas</a></ul>
+    <ul>◻️ <a href="#contribuições-pessoais-----">Contribuições Pessoais</a></ul>
+    <ul>◻️ <a href="#lições-aprendidas-----">Lições Aprendidas</a>
+    <ul>◻️ <a href="#hard-skills-----">Hard Skills</a></ul>
+    <ul>◻️ <a href="#hard-skills-----">Soft Skills</a></ul>
+    </ul>
+  </details>
 </ul>
 </div>
 <hr>
@@ -416,4 +446,17 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <h3>Lições Aprendidas    </h3>
 <h3>Hard Skills    </h3>
 <h3>Soft Skills    </h3>
+</div>
+<hr>
+<div class="semestre6">
+<h3>Work in progress</h3>
+<p align="justify">Parceiro Acadêmico: <a href="">Work in Progress</a></p>
+<p align="center"><img src="" widht="20%"></img>
+<h3>Arquitetura do Projeto     </h3>
+<h3>Prévia da Solução     </h3>
+<h3>Tecnologias Utilizadas     </h3>
+<h3>Contribuições Pessoais     </h3>
+<h3>Lições Aprendidas     </h3>
+<h3>Hard Skills     </h3>
+<h3>Soft Skills     </h3>
 </div>
