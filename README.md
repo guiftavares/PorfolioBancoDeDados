@@ -56,7 +56,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre5">
-<ul>◻️ <a href="#data-rangers">5º Semestre/2021 • Data Rangers</a>
+<ul>◻️ <a href="#data-rangers">5º Semestre/2022 • Data Rangers</a>
 <ul>◻️ <a href="#arquitetura-do-projeto----">Arquitetura do Projeto</a></ul>
 <ul>◻️ <a href="#prévia-da-solução----">Prévia da Solução</a></ul>
 <ul>◻️ <a href="#tecnologias-utilizadas----">Tecnologias Utilizadas</a></ul>
