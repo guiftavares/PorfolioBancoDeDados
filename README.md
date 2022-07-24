@@ -223,7 +223,35 @@ do aplicativo.</p>
     </tr>
   </table>
 </details>
+<p align="justify"> Para facilitar a obtenção de informações e agilizar o processo de digitação dos dados, foi adicionado junto à aplicação a API dos correios que traz os dados de endereço a partir do CEP do cliente.</p>
+<details>
+  <summary><b>Detalhe API dos correios na funcionalidade cadastro de cliente</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/2Sem/api_correios.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<p align="justify">Por fim, o usuário poderá realizar a edição das informações de cliente, fornecedor e conta de acordo com suas necessidades, realizando uma busca em nosso banco de dados</p>
+<details>
+  <summary><b>Funcionalidade Edição de Cliente, Fornecedor e/ou Conta</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/2Sem/edit_poc.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<br>
 <h3>Tecnologias Utilizadas </h3>
+<p align="justify"><a href="https://www.java.com/pt-BR/">Java SE 14:</a> linguagem para desenvolvimento da aplicação para front-end e back-end.</p>
+<p align="justify"><a href="https://www.mysql.com/">MySQL:</a> SGBD para desenvolvimento do Banco de Dados.</p>
+<p align="justify"><a href="https://dev.mysql.com/downloads/connector/j/">MySQL Connector/J:</a> utilizado para conexão entre o banco de dados e o back-end da aplicação.</p>
+<p align="justify"><a href="https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-developers">Eclipse Java:</a> IDE utilizada para a programação da aplicação.</p>
+<br>
 <h3>Contribuições Pessoais </h3>
 <h3>Lições Aprendidas </h3>
 <h3>Hard Skills </h3>
