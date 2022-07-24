@@ -413,6 +413,8 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <h3>airPLAN</h3>
 <p align="justify">Parceiro Acadêmico: <a href="https://embraer.com/br/pt">Embraer</a></p>
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/3Sem/airplan_logo.png" widht="20%"></img>
+<p align="justify"><a href="https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021">airPLAIN</a> é uma aplicação que integra três APIs independentes, cujo o objetivo é a otimização da criação e melhorias do controle na documentação de aeronaves, de forme que automatiza e aperfeiçoa a forma de armazenamento dos dados e geração de documentos de forma intuitiva e eficaz.</p>
+<p align="justify">Além disso, a ferramenta mantém, customiza e versiona partes de arquivos em PDF, utilizando regras de negócio específicas para a geração de documentação final formadas de acordo com a lista efetiva de páginas (LEP) selecionadas.</p>
 <h3>Arquitetura do Projeto  </h3>
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/3Sem/airPlan_arq.png" width="100%"></img></p>
 <br>
