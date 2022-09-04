@@ -347,6 +347,10 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
       <td>★★★★☆☆☆☆☆☆</td>
     </tr>
     <tr>
+      <td>Front-end</td>
+      <td>★★★☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
       <td>Modelagem de Banco de Dados</td>
       <td>★★★★☆☆☆☆☆☆</td>
     </tr>
@@ -474,9 +478,99 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <p align="justify"><a href="https://trello.com/pt-BR">Trello:</a> ferramenta utilizada para a Gestão de Projetos utilizando a metodologia Scrum.</p>
 <br>
 <h3>Contribuições Pessoais  </h3>
-<h3>Lições Aprendidas  </h3>
-<h3>Hard Skills  </h3>
-<h3>Soft Skills  </h3>
+<p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto e entendimento das regras de negócio junto ao cliente, fui responsável pela criação e prototipação das wireframes e avancei nos estudos de UX/UI. Além disso, fui responsável pelo desenvolvimento e arquitetura da funcionalidade CodeList.</p>
+<ul>
+  <li>Definição dos requisitos.</li>
+  <li>UX/UI design.</li>
+  <li>Prototipação das wireframes.</li>
+  <li>Arquitetura da aplicação.</li>
+  <li>Desenvolvimento front-end.</li>
+</ul>
+<br>
+<h3>Lições Aprendidas </h3>
+<p align="justify">Tive o meu primeiro contato com Spring Boot, todavia, pude aprimorar meus conhecimentos em relação ao papel de Product Owner, UX/UI designer e desenvolvimento front-end.</p>
+<h3>Hard Skills </h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Spring Boot</td>
+      <td>★★☆☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Front-end</td>
+      <td>★★★☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Modelagem de Banco de Dados</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Scrum - Product Owner</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI design</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+  </table>
+</details>
+<h3>Soft Skills </h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+  </table>
+</details>
 </div>
 <hr>
 <div class="semestre4">
