@@ -419,7 +419,60 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/3Sem/airPlan_arq.png" width="100%"></img></p>
 <br>
 <h3>Prévia da Solução  </h3>
+<p align="justify">A aplicação desenvolvida tem como objetivo a integração de três APIs independentes, capazes de manter, customizar e versionar partes de arquivos em .pdf, utilizando regras de negócio específicas para a geração de documentos finais que dispõe das partes selecionadas, ou seja, um sistema que automatiza e aperfeiçoa de forma automática a criação e armazenagem de documentos de aeronaves.</p>
+<p align="justify">Para isso, as três APIs indepentendetes desenvolvidas, possuem as seguintes funcionalidades: <b>(i) Codelist: </b>ferramenta que cria, altera, salva e deleta a CodeList do cliente, usando inputs do usuário; <b>(ii) List of Effective Pages (LEP): </b>ferramenta que cria, salva ou deleta da LEP, utilizando input do usuário e informações da CodeList na construção da LEP (espécie de sumário); e <b>(iii) PDF Compilation: </b>ferramenta para compilar arquivos em .pdf, utilizando input e informações da CodeList e/ou LEP para criar o arquivo <i>full</i> ou <i>delta</i>.</p>
+<details>
+  <summary><b>Menu Principal com as três APIs independentes e suas funcionalidades</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021/raw/PL001/imagens%20telas/menu.png" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<p align="justify"> A funcionalidade CodeList permite a criação, a consulta e a importação de CodeLists e o seu armazenamento em banco de dados, a partir dos inputs fornecidos pelo usuário como o código da aeronave, código secundário de identificação, tags e atributos necessários para criação e identificação dos documentos.</p>
+<details>
+  <summary><b>Detalhe da funcionalidade CodeList</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/3Sem/CodeList.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<p align="justify">Já a segunda API, permite a criação da LEP (<i>List of Effective Pages</i>) de forma automática, lendo o rodapé das páginas da CodeList e formando um sumário armazenados em arquivos do tipo .doc e .pdf .</p>
+<details>
+  <summary><b>Detalhe da funcionalidade List of Effective Pages (LEP)</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/3Sem/LEP.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<p align="justify">Por fim, a funcionalidade PDF Compilation permite a compilação dos arquivos baseando-se no Codelist e na LEP e o download do arquivo compilado em .pdf, de acordo com os inputs do usuário nas suas versões <i>full</i> e <i>delta</i>.</p>
+<details>
+  <summary><b>Detalhe da funcionalidade PDF Compilation</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/3Sem/pdfComp.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<br>
 <h3>Tecnologias Utilizadas  </h3>
+<p align="justify"><a href="https://www.java.com/pt-BR/">Java SE 14:</a> linguagem para desenvolvimento da aplicação para back-end.</p>
+<p align="justify"><a href="https://spring.io/">Spring Boot:</a> framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.</p>
+<p align="justify"><a href="https://www.javascript.com/">JavaScript:</a> linguagem para desenvolvimento da aplicação para front-end.</p>
+<p align="justify"><a href="https://www.thymeleaf.org/">Thymeleaf:</a> utilizada para comunicação entre o front-end e a PAI Rest elaborada no back-end.</p>
+<p align="justify"><a href="https://www.mysql.com/">MySQL:</a> SGBD para desenvolvimento do Banco de Dados.</p>
+<p align="justify"><a href="https://trello.com/pt-BR">Trello:</a> ferramenta utilizada para a Gestão de Projetos utilizando a metodologia Scrum.</p>
+<br>
 <h3>Contribuições Pessoais  </h3>
 <h3>Lições Aprendidas  </h3>
 <h3>Hard Skills  </h3>
