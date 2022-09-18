@@ -489,7 +489,7 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <br>
 <h3>Lições Aprendidas </h3>
 <p align="justify">Tive o meu primeiro contato com Spring Boot, todavia, pude aprimorar meus conhecimentos em relação ao papel de Product Owner, UX/UI designer e desenvolvimento front-end.</p>
-<h3>Hard Skills </h3>
+<h3>Hard Skills  </h3>
 <details>
   <summary><b>Clique para ver a lista de hard skills</b></summary>
   <br>
@@ -532,7 +532,7 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
     </tr>
   </table>
 </details>
-<h3>Soft Skills </h3>
+<h3>Soft Skills  </h3>
 <details>
 <summary><b>Clique para ver a lista de soft skills</b></summary>
   <br>
@@ -583,13 +583,143 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <br>
 <h3>Prévia da Solução   </h3>
 <p align="justify">A plataforma permite que usuários, externos e funcionários Oracles, cadastrem-se inserindo seus dados pessoais e o comprovante de vacinação contra a Covid-19. Além disso, funcionários cadastrados podem se inscrever em eventos para os quais foram convidados ou em eventos abertos ao público. Funcionários Oracle podem, ainda, solicitar permissão de Organizador de Eventos.</p>
+<details>
+  <summary><b>Cadastro de Usuários</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/4Sem/images/corte_1.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
 <p align="justify">O usuário Organizador de Evento pode agendar eventos em um dos espaços disponíveis; inserir lista de convidados para os eventos que organizar; editar, consultar e excluir eventos criados; consultar calendário de agendamento de eventos; consultar fornecedores de acordo com a categoria para auxílio nos eventos; e extrair relatórios dos eventos criados.</p>
+<details>
+  <summary><b>Funcionalidades Usuário Organizador</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/4Sem/images/corte2.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
 <p align="justify">Já o administrador do sistema, pode cadastrar fornecedores; aprovar ou recusar eventos criados pelos organizadores; priorizar eventos conflitantes a partir de regras de negócio pré-estabelecidas; aprovar ou recusar comprovante de vacinação dos convidados; alterar capacidade de lotação de acordo com legislação pertinente; e extrair relatórios dos eventos.</p>
+<details>
+  <summary><b>Funcionalidades Usuário Administrador</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/4Sem/images/corte3.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<br>
 <h3>Tecnologias Utilizadas   </h3>
+<p align="justify"><a href="https://www.java.com/pt-BR/">Java SE 14:</a> linguagem para desenvolvimento da aplicação para back-end.</p>
+<p align="justify"><a href="https://spring.io/">Spring Boot:</a> framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.</p>
+<p align="justify"><a href="https://www.javascript.com/">JavaScript:</a> linguagem para desenvolvimento da aplicação para front-end.</p>
+<p align="justify"><a href="https://angular.io/">Angular:</a> framework para desenvolvimento front-end utilizando HTML, SCSS e JavaScript.</p>
+<p align="justify"><a href="https://www.oracle.com/database/sqldeveloper/technologies/download/">Oracle SQL Developer:</a> SGBD para desenvolvimento do Banco de Dados.</p>
+<p align="justify"><a href="https://vempracasa.atlassian.net/jira/your-work">JIRA:</a> ferramenta utilizada para a Gestão de Projetos utilizando a metodologia Scrum.</p>
+<p align="justify"><a href="https://www.figma.com/">Figma:</a> ferramenta utilizada para o estudo, desenvolvimento e prototipagem das wireframes do projeto.</p>
+<br>
 <h3>Contribuições Pessoais   </h3>
+<p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto e entendimento das regras de negócio junto ao cliente, fui responsável pela criação e prototipação das wireframes e avancei nos estudos de UX/UI utilizando o Web Content Accessibility Guideline (WCAG). Fui responsável pela aplicação da Metodologia Product Backlog Building (PBB) para o levantamento dos itens do backlog, priorização e desenvolvimento do backlog com os mínimos produtos viáveis (MVPs) entregues em cada Sprint. Além disso, fui responsável pelo desenvolvimentop front-end das telas de menu inicial e cadastro.</p>
+<ul>
+  <li>Definição dos requisitos.</li>
+  <li>Aplicação de Metodologia Product Backlog Building.</li>
+  <li>UX/UI design.</li>
+  <li>Prototipação das wireframes.</li>
+  <li>Arquitetura da aplicação.</li>
+  <li>Desenvolvimento front-end.</li>
+</ul>
+<br>
 <h3>Lições Aprendidas   </h3>
+<p align="justify">Tive o meu primeiro contato com Angular, pude aprimorar meus conhecimentos em relação ao papel de Product Owner, UX/UI designer e desenvolvimento front-end.</p>
 <h3>Hard Skills   </h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Spring Boot</td>
+      <td>★★☆☆☆☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Front-end</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Modelagem de Banco de Dados</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Oracle SQL Developer</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Scrum - Product Owner</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI design</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+  </table>
+</details>
 <h3>Soft Skills   </h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★★★★☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+  </table>
+</details>
 </div>
 <hr>
 <div class="semestre5">
