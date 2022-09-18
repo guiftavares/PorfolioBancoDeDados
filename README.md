@@ -576,9 +576,15 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <div class="semestre4">
 <h3>VEMPRACASA</h3>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.oracle.com/br/index.html">Oracle</a></p>
-<p align="center"><img src="" widht="20%"></img>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/4Sem/images/vempracasa_logo.png" widht="20%"></img>
+<p align="justify"><a href="https://github.com/guiftavares/API4Sem2021">#VEMPRACASA</a> é uma plataforma para realização de agendamentos de eventos nos espaços da <a href="https://blogs.oracle.com/oracle-brasil/post/casa-oracle-abre-as-portas-para-a-inovacao-em-sao-paulo">Casa Oracle</a>, seguindo as normas vigentes de ocupação por conta da Pandemia do Coronavírus, tendo a possibilidade de priorização de acordo com regras de negócio, facilitando a inscrição e cadastro de convidados e aumentando o controle por parte dos organizadores.</p>
 <h3>Arquitetura do Projeto   </h3>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/4Sem/images/VemPraCasa_arq.png" width="100%"></img></p>
+<br>
 <h3>Prévia da Solução   </h3>
+<p align="justify">A plataforma permite que usuários, externos e funcionários Oracles, cadastrem-se inserindo seus dados pessoais e o comprovante de vacinação contra a Covid-19. Além disso, funcionários cadastrados podem se inscrever em eventos para os quais foram convidados ou em eventos abertos ao público. Funcionários Oracle podem, ainda, solicitar permissão de Organizador de Eventos.</p>
+<p align="justify">O usuário Organizador de Evento pode agendar eventos em um dos espaços disponíveis; inserir lista de convidados para os eventos que organizar; editar, consultar e excluir eventos criados; consultar calendário de agendamento de eventos; consultar fornecedores de acordo com a categoria para auxílio nos eventos; e extrair relatórios dos eventos criados.</p>
+<p align="justify">Já o administrador do sistema, pode cadastrar fornecedores; aprovar ou recusar eventos criados pelos organizadores; priorizar eventos conflitantes a partir de regras de negócio pré-estabelecidas; aprovar ou recusar comprovante de vacinação dos convidados; alterar capacidade de lotação de acordo com legislação pertinente; e extrair relatórios dos eventos.</p>
 <h3>Tecnologias Utilizadas   </h3>
 <h3>Contribuições Pessoais   </h3>
 <h3>Lições Aprendidas   </h3>
