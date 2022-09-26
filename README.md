@@ -68,7 +68,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre5">
-<ul><a href="#data-rangers">5º Semestre/2022 • Data Rangers</a>
+<ul><a href="#data-rangers">5º Semestre/2022 • Data Rangers • Portfolio in Progress</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto----">Arquitetura do Projeto</a></ul>
@@ -83,7 +83,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre6">
-<ul><a href="#work-in-progress">6º Semestre/2022 • Work in Progress</a>
+<ul><a href="#work-in-progress">6º Semestre/2022 • D-END • Work in Progress</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto-----">Arquitetura do Projeto</a></ul>
