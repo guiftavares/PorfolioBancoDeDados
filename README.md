@@ -110,7 +110,7 @@ de Supply Chain Technology e Construção Civil. Além disso, atuei em análise 
 automatizando processos na área com ferramentas low-code (Power Platform), em desenvolvimento como especialista na plataforma Anaplan 
 e atuando como product owner na implementação de metodologia ágil para o time de suporte de finanças e em projetos de business intelligence junto ao 
 departamento jurídico.</p>
-<p align="center">• <a href="">LinkedIn</a> • <a href="https://github.com/guiftavares">GitHub</a> •</p>
+<p align="center">• <a href="https://www.linkedin.com/in/guilhermeftavares/">LinkedIn</a> • <a href="https://github.com/guiftavares">GitHub</a> •</p>
 <hr>
 <div class="semestre1">
 <h2>Meus Projetos</h2>
