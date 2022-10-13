@@ -7,7 +7,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 <p>◻️ <a href="#sobre-mim">Sobre mim</a></p>
 <p>◻️ <a href="#meus-projetos">Meus Projetos</a></p>
 <div class="semestre1">
-<ul><a href="#granja-do-futuro">1º Semestre/2020 • Granja do Futuro</a>
+<ul><a href="#granja-do-futuro">1º Semestre • 1/2020 • Granja do Futuro</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto">Arquitetura do Projeto</a></ul>
@@ -22,7 +22,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre2">
-<ul><a href="#processos-otimizados-de-contas">2º Semestre/2020 • Processos Otimizados de Contas</a>
+<ul><a href="#processos-otimizados-de-contas">2º Semestre • 2/2020 • Processos Otimizados de Contas</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto-">Arquitetura do Projeto</a></ul>
@@ -38,7 +38,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </div>
 </div>
 <div class="semestre3">
-<ul><a href="#airplan">3º Semestre/2021 • airPLAN</a>
+<ul><a href="#airplan">3º Semestre • 1/2021 • airPLAN</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto--">Arquitetura do Projeto</a></ul>
@@ -53,7 +53,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre4">
-<ul><a href="#vempracasa">4º Semestre/2021 • #VEMPRACASA</a>
+<ul><a href="#vempracasa">4º Semestre • 2/2021 • #VEMPRACASA</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto---">Arquitetura do Projeto</a></ul>
@@ -68,7 +68,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre5">
-<ul><a href="#data-rangers">5º Semestre/2022 • Data Rangers • Portfolio in Progress</a>
+<ul><a href="#data-rangers">5º Semestre • 1/2022 • Data Rangers</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto----">Arquitetura do Projeto</a></ul>
@@ -83,7 +83,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre6">
-<ul><a href="#work-in-progress">6º Semestre/2022 • D-END • Work in Progress</a>
+<ul><a href="#work-in-progress">6º Semestre/2022 • 2/2022 • D-END • Work in Progress</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto-----">Arquitetura do Projeto</a></ul>
@@ -106,8 +106,8 @@ Tecnologia de São José dos Campos (FATEC).</p>
 <p align="justify">Possuo experiência na área de Tecnologia. Durante esse período, tive a oportunidade de desenvolver sistemas inteligentes 
 e modelos matemáticos em parceria com o Departamento de Agricultura dos Estados Unidos (USDA). Trabelhei com Gestão de Projetos e Portfólio nas áreas 
 de Supply Chain Technology e Construção Civil. Além disso, atuei em análise e governança de dados em system reliability e data quality.</p>
-<p align="justify">Atualmente trabalho como analista de tecnologia financeira na Johnson & Johnson, trabalho com Digital Transformation 
-automatizando processos na área com ferramentas low-code (Power Platform), estou em desenvolvimento como especialista na plataforma Anaplan 
+<p align="justify">Atualmente sou analista de tecnologia financeira na Johnson & Johnson, trabalho com Digital Transformation, 
+automatizando processos na área com ferramentas low-code (Power Platform), em desenvolvimento como especialista na plataforma Anaplan 
 e atuando como product owner na implementação de metodologia ágil para o time de suporte de finanças e em projetos de business intelligence junto ao 
 departamento jurídico.</p>
 <p align="center">• <a href="">LinkedIn</a> • <a href="https://github.com/guiftavares">GitHub</a> •</p>
@@ -115,6 +115,7 @@ departamento jurídico.</p>
 <div class="semestre1">
 <h2>Meus Projetos</h2>
 <h3>Granja do Futuro</h3>
+<h4>1º Semestre • 1/2020 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://fatecsjc-prd.azurewebsites.net/">Faculdade de Tecnologia de São José dos Campos</a></p>
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/1Sem/images/granja_futuro_img.png" widht="20%"></img>
 <p align="justify">Granja do Futuro é um aplicativo de Gestão de Propriedade para Avicultura de Corte focado no desempenho zootécnico, conforto e bem-estar animal. 
@@ -176,7 +177,7 @@ condição de sua propriedade e do bem-estar de seus animais ao longo de determi
 <br>
 <h3>Contribuições Pessoais</h3>
 <p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto, 
-fui responsável pela criação e prototipação das wireframes. Além disso, contribuí com o desenvolvimento da lógica matemática por trás da aplicação e do desenvolvimento da funcionalidade animal.</p>
+fui responsável pela criação e prototipação das wireframes. Além disso, contribuí com o desenvolvimento da lógica matemática programada no back-end da aplicação e no desenvolvimento da funcionalidade animal. Sendo as atividades desempenhadas:</p>
 <ul>
   <li>Definição dos requisitos.</li>
   <li>UX/UI design.</li>
@@ -271,6 +272,7 @@ do aplicativo.</p>
 <hr>
 <div class="semestre2">
 <h3>Processos Otimizados de Contas</h3>
+<h4>2º Semestre • 2/2020 • <a href="https://github.com/MikeBBatista/pi-fatec-java">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://tecsus.com.br/">TecSUS Tecnologias para a Sustentabilidade</a></p>
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/2Sem/poc_img.png" widht="20%"></img>
 <p align="justify">POC, <a href="https://github.com/MikeBBatista/pi-fatec-java">Processos Otimizados de Contas</a>, é uma aplicação que facilita e otimiza a inserção de informações de contas despradonizadas de energia e água. Devido a grande diversidade de layouts nas contas de água e energia no Brasil, a digitalização dos dados de interesse para empresa, torna-se uma tarefa árdua e dispendiosa.</p>
@@ -321,7 +323,7 @@ do aplicativo.</p>
 <br>
 <h3>Contribuições Pessoais </h3>
 <p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto, 
-fui responsável pela criação e prototipação das wireframes e avancei nos estudos de UX/UI. Além disso, fui responsável pelo desenvolvimento e arquitetura da funcionalidade cadastro de fornecedor, construção de classes, manipulação de objetos e criação de telas utilizando JAVA e o GUI Builder da IDE Eclipse.</p>
+fui responsável pela criação e prototipação das wireframes e avancei nos estudos de UX/UI. Além disso, fui responsável pelo desenvolvimento e arquitetura e construção de classes da funcionalidade cadastro de fornecedor, manipulação de objetos e criação de telas utilizando JAVA e o GUI Builder da IDE Eclipse. Sendo as atividades desempenhadas:</p>
 <ul>
   <li>Definição dos requisitos.</li>
   <li>UX/UI design.</li>
@@ -415,9 +417,10 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <hr>
 <div class="semestre3">
 <h3>airPLAN</h3>
+<h4>3º Semestre • 1/2021 • <a href="https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://embraer.com/br/pt">Embraer</a></p>
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/3Sem/airplan_logo.png" widht="20%"></img>
-<p align="justify"><a href="https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021">airPLAIN</a> é uma aplicação que integra três APIs independentes, cujo o objetivo é a otimização da criação e melhorias do controle na documentação de aeronaves, de forme que automatiza e aperfeiçoa a forma de armazenamento dos dados e geração de documentos de forma intuitiva e eficaz.</p>
+<p align="justify"><a href="https://github.com/GabrielSG20/Projeto_Integrador_3BD-1Sem2021">airPLAIN</a> é uma aplicação que integra três APIs independentes, cujo o objetivo é a otimização da criação e melhorias do controle na documentação de aeronaves, de forma que automatiza e aperfeiçoa a forma de armazenamento dos dados e geração de documentos de forma intuitiva e eficaz.</p>
 <p align="justify">Além disso, a ferramenta mantém, customiza e versiona partes de arquivos em PDF, utilizando regras de negócio específicas para a geração de documentação final formadas de acordo com a lista efetiva de páginas (LEP) selecionadas.</p>
 <h3>Arquitetura do Projeto  </h3>
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/3Sem/airPlan_arq.png" width="100%"></img></p>
@@ -478,7 +481,7 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <p align="justify"><a href="https://trello.com/pt-BR">Trello:</a> ferramenta utilizada para a Gestão de Projetos utilizando a metodologia Scrum.</p>
 <br>
 <h3>Contribuições Pessoais  </h3>
-<p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto e entendimento das regras de negócio junto ao cliente, fui responsável pela criação e prototipação das wireframes e avancei nos estudos de UX/UI. Além disso, fui responsável pelo desenvolvimento e arquitetura da funcionalidade CodeList.</p>
+<p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto e entendimento das regras de negócio junto ao cliente, fui responsável pela criação e prototipação das wireframes e avancei nos estudos de UX/UI. Além disso, fui responsável pelo desenvolvimento e arquitetura da funcionalidade CodeList. Sendo as atividades desempenhadas:</p>
 <ul>
   <li>Definição dos requisitos.</li>
   <li>UX/UI design.</li>
@@ -575,6 +578,7 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <hr>
 <div class="semestre4">
 <h3>VEMPRACASA</h3>
+<h4>4º Semestre • 2/2021 • <a href="https://github.com/guiftavares/API4Sem2021">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.oracle.com/br/index.html">Oracle</a></p>
 <p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/4Sem/images/vempracasa_logo.png" widht="20%"></img>
 <p align="justify"><a href="https://github.com/guiftavares/API4Sem2021">#VEMPRACASA</a> é uma plataforma para realização de agendamentos de eventos nos espaços da <a href="https://blogs.oracle.com/oracle-brasil/post/casa-oracle-abre-as-portas-para-a-inovacao-em-sao-paulo">Casa Oracle</a>, seguindo as normas vigentes de ocupação por conta da Pandemia do Coronavírus, tendo a possibilidade de priorização de acordo com regras de negócio, facilitando a inscrição e cadastro de convidados e aumentando o controle por parte dos organizadores.</p>
@@ -724,6 +728,7 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <hr>
 <div class="semestre5">
 <h3>Data Rangers</h3>
+<h4>5º Semestre • 1/2022 • <a href="https://github.com/API5Sem22">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.spcbrasil.org.br/">SPC Brasil</a></p>
 <p align="center"><img src="" widht="20%"></img>
 <h3>Arquitetura do Projeto    </h3>
@@ -736,7 +741,8 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 </div>
 <hr>
 <div class="semestre6">
-<h3>Work in progress</h3>
+<h3>D-end</h3>
+<h4>6º Semestre • 2/2022 </h4>
 <p align="justify">Parceiro Acadêmico: <a href="">Work in Progress</a></p>
 <p align="center"><img src="" widht="20%"></img>
 <h3>Arquitetura do Projeto     </h3>
