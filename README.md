@@ -1,5 +1,5 @@
 <h1>Portfólio das APIs - Guilherme Tavares</h1>
-<p align="justify">Trabalho de Graduação na modalidade Portfólio das APIs,
+<p align="justify">Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de Projeto Integrador (APIs),
 apresentado à Faculdade de Tecnologia de São José dos Campos,
 como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 <hr>
@@ -83,7 +83,7 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
 </ul>
 </div>
 <div class="semestre6">
-<ul><a href="#work-in-progress">6º Semestre/2022 • 2/2022 • D-END • Work in Progress</a>
+<ul><a href="#d-end">6º Semestre • 2/2022 • D-END • Work in Progress</a>
   <details>
     <summary>Detalhes</summary>
     <ul>◻️ <a href="#arquitetura-do-projeto-----">Arquitetura do Projeto</a></ul>
@@ -268,6 +268,8 @@ do aplicativo.</p>
     </tr>
   </table>
 </details>
+<br>
+<p><a href="#sumário">Voltar para o início</a></p>
 </div>
 <hr>
 <div class="semestre2">
@@ -414,6 +416,8 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
   </table>
 </details>
 </div>
+<br>
+<p><a href="#sumário">Voltar para o início</a></p>
 <hr>
 <div class="semestre3">
 <h3>airPLAN</h3>
@@ -575,6 +579,8 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
   </table>
 </details>
 </div>
+<br>
+<p><a href="#sumário">Voltar para o início</a></p>
 <hr>
 <div class="semestre4">
 <h3>VEMPRACASA</h3>
@@ -725,6 +731,8 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
   </table>
 </details>
 </div>
+<br>
+<p><a href="#sumário">Voltar para o início</a></p>
 <hr>
 <div class="semestre5">
 <h3>Data Rangers</h3>
@@ -739,6 +747,8 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <h3>Hard Skills    </h3>
 <h3>Soft Skills    </h3>
 </div>
+<br>
+<p><a href="#sumário">Voltar para o início</a></p>
 <hr>
 <div class="semestre6">
 <h3>D-end</h3>
@@ -752,4 +762,6 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <h3>Lições Aprendidas     </h3>
 <h3>Hard Skills     </h3>
 <h3>Soft Skills     </h3>
+<br>
+<p><a href="#sumário">Voltar para o início</a></p>
 </div>
