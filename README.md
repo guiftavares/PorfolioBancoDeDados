@@ -636,7 +636,7 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <p align="justify"><a href="https://www.figma.com/">Figma:</a> ferramenta utilizada para o estudo, desenvolvimento e prototipagem das wireframes do projeto.</p>
 <br>
 <h3>Contribuições Pessoais   </h3>
-<p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto e entendimento das regras de negócio junto ao cliente, fui responsável pela criação e prototipação das wireframes e avancei nos estudos de UX/UI utilizando o Web Content Accessibility Guideline (WCAG). Fui responsável pela aplicação da Metodologia Product Backlog Building (PBB) para o levantamento dos itens do backlog, priorização e desenvolvimento do backlog com os mínimos produtos viáveis (MVPs) entregues em cada Sprint. Além disso, fui responsável pelo desenvolvimentop front-end das telas de menu inicial e cadastro.</p>
+<p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto e entendimento das regras de negócio junto ao cliente, fui responsável pela criação e prototipação das wireframes e avancei nos estudos de UX/UI utilizando o Web Content Accessibility Guideline (WCAG). Fui responsável pela aplicação da Metodologia Product Backlog Building (PBB) para o levantamento dos itens do backlog, priorização e desenvolvimento do backlog com os mínimos produtos viáveis (MVPs) entregues em cada Sprint. Além disso, fui responsável pelo desenvolvimentop front-end das telas de menu inicial e cadastro. Sendo as atividades desempenhadas:</p>
 <ul>
   <li>Definição dos requisitos.</li>
   <li>Aplicação de Metodologia Product Backlog Building.</li>
@@ -738,14 +738,183 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <h3>Data Rangers</h3>
 <h4>5º Semestre • 1/2022 • <a href="https://github.com/API5Sem22">Repositório Github</a></h4>
 <p align="justify">Parceiro Acadêmico: <a href="https://www.spcbrasil.org.br/">SPC Brasil</a></p>
-<p align="center"><img src="" widht="20%"></img>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/6Sem/DR.png" widht="20%"></img>
+<p align="justify"><a href="https://github.com/API5Sem22">Data Rangers</a> teve como finalidade o desenvolvimento de um Data Warehouse para centralizar os dados da empresa parceira a serem utilizados no Dashboard desenvoldido em PowerBI, cujo objetivo é a prospecção de novos clientes e, consequentemente, aumento das vendas e consumo dos produtos SPC por meio de modelos de inteligência artificial.</p>
+<br>
 <h3>Arquitetura do Projeto    </h3>
+<br>
 <h3>Prévia da Solução    </h3>
+<p align="justify">A plataforma permite que o usuário administrador cadastre, edite e exclua colaboradores no sistema (vendedores e analistas de negócios). Além disso ele pode editar o nível do cliente de acordo com a experiência de cada vendedor, bem como tirar da atribuição de um vendedor determinado cliente.</p>
+<details>
+  <summary><b>Gestão de Usuários</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/API5Sem22/API5Doc/raw/main/Videos/gerenciar-usuarios.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<p align="justify">Além disso ele pode editar o nível do cliente de acordo com a experiência de cada vendedor, bem como tirar da atribuição de um vendedor determinado cliente.</p>
+<details>
+  <summary><b>Edição de Carteira de Cliente</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/API5Sem22/API5Doc/raw/main/Videos/alterar-carteira.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<p align="justify">Já o usuário vendedor possui as funcionalidades de atribuir clientes para si de acordo com o nível da carteira. Além de acessar informações dos clientes cadastrados e fazer o acompanhamento de desempenho por meio de dashboards.</p>
+<details>
+  <summary><b>Atribuição de Clientes Livres para Carteira</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/API5Sem22/API5Doc/raw/main/Videos/atribuicao-cliente.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Edição de dados de Clientes</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/API5Sem22/API5Doc/raw/main/Videos/edicao-por-cnpj.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<p align="justify">Por fim, o Analista de Negócios consome os dados provenientes do Data Warehouse em dashboard desenvolvido no Power BI. Além disso, ele pode realizar o download do arquivo no formato .csv diretamente na ferramenta e, também, alimentar as informações de prospecção de clientes a partir das análises feitos com modelo classificatório de inteligência artificial.</p>
+<details>
+  <summary><b>Dashboard em PowerBI</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/API5Sem22/API5Doc/raw/main/Videos/grafico-analista.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<details>
+  <summary><b>Prospecção de Clientes a partir de Modelo Classificatório</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="https://github.com/API5Sem22/API5Doc/raw/main/Videos/grafico-prospeccao.gif" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<br>
 <h3>Tecnologias Utilizadas    </h3>
+<p align="justify"><a href="https://www.java.com/pt-BR/">Java SE 14:</a> linguagem para desenvolvimento da aplicação para back-end.</p>
+<p align="justify"><a href="https://spring.io/">Spring Boot:</a> framework para Java utilizada para facilitar a configuração e o gerenciamento das dependências do projeto.</p>
+<p align="justify"><a href="https://www.javascript.com/">JavaScript:</a> linguagem para desenvolvimento da aplicação para front-end.</p>
+<p align="justify"><a href="https://vuejs.org/">Vue.js:</a> framework para desenvolvimento front-end utilizando HTML, CSS e JavaScript.</p>
+<p align="justify"><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">Microsoft SQL Server:</a> SGBD para desenvolvimento do Banco de Dados.</p>
+<p align="justify"><a href="https://azure.microsoft.com/pt-br/">Azure:</a> plataforma destinada à execução de aplicativos e serviços em nuvem, sendo utilizada para deploy do banco de dados SQL Server.</p>
+<p align="justify"><a href="https://circleci.com/">CircleCI:</a> plataforma de entrega contínua utilizada para o controle da qualidade do desenvolvimento do software e controle automatizado das pipelines.</p>
+<p align="justify"><a href="https://www.heroku.com/">Heroku:</a> plataforma em nuvem utilizada para o deploy do Front-end da aplicação.</p>
+<p align="justify"><a href="https://vertabelo.com/">Vertabelo:</a> ferramenta utilizada para a modelagem do banco de dados e do data warehouse.</p>
+<p align="justify"><a href="https://powerbi.microsoft.com/pt-br/">PowerBI:</a> ferramenta de Business Intelligence utilizada para o desenvolvimento dos reports e dashboards.</p>
+<p align="justify"><a href="https://vempracasa.atlassian.net/jira/your-work">JIRA:</a> ferramenta utilizada para a Gestão de Projetos utilizando a metodologia Scrum.</p>
+<p align="justify"><a href="https://www.figma.com/">Figma:</a> ferramenta utilizada para o estudo, desenvolvimento e prototipagem das wireframes do projeto.</p>
+<br>
 <h3>Contribuições Pessoais    </h3>
+<p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto e entendimento das regras de negócio junto ao cliente, fui responsável pela criação e prototipação das wireframes e avancei nos estudos de UX/UI utilizando o Web Content Accessibility Guideline (WCAG). Fui responsável pela aplicação da Metodologia Product Backlog Building (PBB) para o levantamento dos itens do backlog, priorização e desenvolvimento do backlog com os mínimos produtos viáveis (MVPs) entregues em cada Sprint. Fui responsável pelo desenvolvimentop do modelo classificatório para predição da potencial prospecção do cliente utilizando Python, Pandas e a Biblioteca Skit-learn. Além disso, desenvolvi os dashboards e os reports em PowerBI de acordo com as necessidadess do cliente. Sendo as atividades desempenhadas:</p>
+<ul>
+  <li>Definição dos requisitos.</li>
+  <li>Aplicação de Metodologia Product Backlog Building.</li>
+  <li>UX/UI design.</li>
+  <li>Prototipação das wireframes.</li>
+  <li>Arquitetura da aplicação.</li>
+  <li>Tratamento dos dados para análise</li>
+  <li>Desenvolvimento Modelo Classificatório - Árvore de Decisão</li>
+  <li>Desenvolvimento Dashboards e Reports em PowerBI</li> 
+</ul>
+<br>
 <h3>Lições Aprendidas    </h3>
 <h3>Hard Skills    </h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>PowerBI</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Tratamento dos Dados</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Modelagem de Banco de Dados</td>
+      <td>★★★★★☆☆☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Scrum - Product Owner</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI design</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+  </table>
+</details>
 <h3>Soft Skills    </h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+  </table>
+</details>
 </div>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
