@@ -921,16 +921,139 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <hr>
 <div class="semestre6">
 <h3>D-end</h3>
-<h4>6º Semestre • 2/2022 </h4>
-<p align="justify">Parceiro Acadêmico: <a href="">Work in Progress</a></p>
-<p align="center"><img src="" widht="20%"></img>
+<h4>6º Semestre • 2/2022 • <a href="https://github.com/API6Sem22">Repositório Github</a></h4>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.domrock.net/">Dom Rock</a></p>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/6Sem/Imagem1.png" widht="20%"></img>
+<p align="justify">D-end é uma ferramenta end-to-end de business analysis, desde seu armazenamento em Banco de Dados não-relacional devido a natureza de seus dados, até a obtenção de informações por meio de métricas e KPIs em um ambiente de <i>business intelligence</i>, utilizando métodos de acordo com a Lei Geral de Proteção dos Dados, Lei n° 13.709/2018 para garantir a proteção dos dados pessoais da base de dados. </p>
+<br>
 <h3>Arquitetura do Projeto     </h3>
+<br>
 <h3>Prévia da Solução     </h3>
+<p align="justify">A ferramenta permite que a empresa controladora dos dados, neste caso a Dom Rock, armazene a base de dados (base Bronze) em um ambiente seguro. Posteriormente, os dados são inseridos no ambiente Mongo DB, sendo utilizado um log de rastreamento e a criptografia nos dados pessoais como medida de segurança, e são tratados (base Silver) com auxílio da <a href="https://www.mongodb.com/docs/manual/aggregation/">Aggregation Framework</a>, sendo conciliados (base Gold) de acordo com as regras de negócio definidas pelo cliente.</p>
+<details>
+  <summary><b>Aggregation Fremework</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<p align="justify">A base Gold é extraída, transformada e inserida em um DataWarehouse onde os dados serão utilizados para visualização das medidas e métricas na ferramenta de <i>business intelligence</i> PowerBI.</p>
+<details>
+  <summary><b>Visualização das Informações no PowerBI</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <td alignt="center"><img src="" alt=""/>
+      </td>     
+    </tr>
+  </table>
+</details>
+<br>
 <h3>Tecnologias Utilizadas     </h3>
+<p align="justify"><a href="https://www.veracrypt.fr/code/VeraCrypt/">VeraCrypt:</a> Utilitário freeware disponível na fonte usado para criptografia on-the-fly.</p>
+<p align="justify"><a href="https://www.python.org/">Python:</a> Linguagem de Programação utilizada para o desenvolvimento dos scripts de inserção dos dados no Mongo DB, ETL para o Data Warehouse, Descriptografia dos Dados Pessoais e Análise de Séries Temporais.</p>
+<p align="justify"><a href="https://www.mongodb.com/atlas">MongoDB:</a> Banco de Dados Não-Relacional utilizado para o armazenamento de dados.</p>
+<p align="justify"><a href="https://www.mongodb.com/docs/manual/aggregation/">Aggregation Framework:</a> Utilizada para a transformação, tratamento e concialiação dos dados (bases Silver e Gold) de acordo com as necessidades do negócio.</p>
+<p align="justify"><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019">Microsoft SQL Server:</a> SGBD para desenvolvimento do Banco de Dados.</p>
+<p align="justify"><a href="https://azure.microsoft.com/pt-br/">Azure:</a> plataforma destinada à execução de aplicativos e serviços em nuvem, sendo utilizada para deploy do banco de dados SQL Server.</p>
+<p align="justify"><a href="https://vertabelo.com/">Vertabelo:</a> ferramenta utilizada para a modelagem do banco de dados e do data warehouse.</p>
+<p align="justify"><a href="https://powerbi.microsoft.com/pt-br/">PowerBI:</a> ferramenta de Business Intelligence utilizada para o desenvolvimento dos reports e dashboards.</p>
+<p align="justify"><a href="https://vempracasa.atlassian.net/jira/your-work">JIRA:</a> ferramenta utilizada para a Gestão de Projetos utilizando a metodologia Scrum.</p>
+<p align="justify"><a href="https://www.figma.com/">Figma:</a> ferramenta utilizada para o desenvolvimento do Product Backlog.</p>
+<br>
 <h3>Contribuições Pessoais     </h3>
+<p align="justify">Desempenhei o papel de Product Owner, realizando o levantamente dos requisitos para construção do backlog do produto e entendimento das regras de negócio junto ao cliente. Fui responsável pela aplicação da Metodologia Product Backlog Building (PBB) para o levantamento dos itens do backlog, priorização e desenvolvimento do backlog com os mínimos produtos viáveis (MVPs) entregues em cada Sprint. Fui responsável pelo tratamento e concialiação dos dados utilizando Aggregation Framework de acordo com as regras de negócio.Fui responsável pelo desenvolvimento do dashboard em PowerBI, utilizando o Web Content Accessibility Guideline (WCAG) na paleta de cores dos gráficos. Fui responsável pelo desenvolvimentop do modelo de predição do valor divergente, utilizando Séries Temporais. Sendo as atividades desempenhadas:</p>
+<ul>
+  <li>Definição dos requisitos.</li>
+  <li>Aplicação de Metodologia Product Backlog Building.</li>
+  <li>Arquitetura da aplicação.</li>
+  <li>Tratamento e Conciliação dos dados para análise</li>
+  <li>Desenvolvimento Modelo de Séries Temporais</li>
+  <li>Desenvolvimento Dashboards e Reports em PowerBI</li> 
+</ul>
+<br>
 <h3>Lições Aprendidas     </h3>
 <h3>Hard Skills     </h3>
+<details>
+  <summary><b>Clique para ver a lista de hard skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Tecnologia/Metodologia</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Mongo DB</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Aggregation Framework</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>PowerBI</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Tratamento dos Dados</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Scrum - Product Owner</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+  </table>
+</details>
 <h3>Soft Skills     </h3>
+<details>
+<summary><b>Clique para ver a lista de soft skills</b></summary>
+  <br>
+  <table align="center">
+    <tr>
+      <th width="300px">Habilidade</th>
+      <th width="300px">Classificação</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Visão de Negócio</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação Assertiva</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia</td>
+      <td>★★★★★★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>Inteligência Emocional</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Organização e Planejamento</td>
+      <td>★★★★★★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Resiliência</td>
+      <td>★★★★★★★★☆☆</td>
+    </tr>
+  </table>
+</details>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
