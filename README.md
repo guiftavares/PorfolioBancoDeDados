@@ -742,7 +742,7 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <p align="justify"><a href="https://github.com/API5Sem22">Data Rangers</a> teve como finalidade o desenvolvimento de um Data Warehouse para centralizar os dados da empresa parceira a serem utilizados no Dashboard desenvoldido em PowerBI, cujo objetivo é a prospecção de novos clientes e, consequentemente, aumento das vendas e consumo dos produtos SPC por meio de modelos de inteligência artificial.</p>
 <br>
 <h3>Arquitetura do Projeto    </h3>
-<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/5Sem/DataRangers.png" width="100%"></img></p>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/5Sem/DataRangers%20(1).png" width="100%"></img></p>
 <br>
 <h3>Prévia da Solução    </h3>
 <p align="justify">A plataforma permite que o usuário administrador cadastre, edite e exclua colaboradores no sistema (vendedores e analistas de negócios). Além disso ele pode editar o nível do cliente de acordo com a experiência de cada vendedor, bem como tirar da atribuição de um vendedor determinado cliente.</p>
@@ -928,11 +928,12 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <p align="justify">D-end é uma ferramenta end-to-end de business analysis, desde seu armazenamento em Banco de Dados não-relacional devido a natureza de seus dados, até a obtenção de informações por meio de métricas e KPIs em um ambiente de <i>business intelligence</i>, utilizando métodos de acordo com a Lei Geral de Proteção dos Dados, Lei n° 13.709/2018 para garantir a proteção dos dados pessoais da base de dados. </p>
 <br>
 <h3>Arquitetura do Projeto     </h3>
+<p align="center"><img src="https://github.com/guiftavares/PorfolioBancoDeDados/blob/main/6Sem/Dend.png?raw=true" width="100%"></img></p>
 <br>
 <h3>Prévia da Solução     </h3>
 <p align="justify">A ferramenta permite que a empresa controladora dos dados, neste caso a Dom Rock, armazene a base de dados (base Bronze) em um ambiente seguro. Posteriormente, os dados são inseridos no ambiente Mongo DB, sendo utilizado um log de rastreamento e a criptografia nos dados pessoais como medida de segurança, e são tratados (base Silver) com auxílio da <a href="https://www.mongodb.com/docs/manual/aggregation/">Aggregation Framework</a>, sendo conciliados (base Gold) de acordo com as regras de negócio definidas pelo cliente.</p>
 <details>
-  <summary><b>Aggregation Fremework</b></summary>
+  <summary><b>Aggregation Framework</b></summary>
   <br>
   <table align="center">
     <tr>
@@ -947,7 +948,7 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
   <br>
   <table align="center">
     <tr>
-      <td alignt="center"><img src="" alt=""/>
+      <td alignt="center"><img src="https://github.com/GabrielSG20/Portfolio/raw/resume/assets/img/6SemSolucao.png" alt=""/>
       </td>     
     </tr>
   </table>
