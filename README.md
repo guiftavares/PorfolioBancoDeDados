@@ -269,6 +269,9 @@ do aplicativo.</p>
   </table>
 </details>
 <br>
+<p align="justify"><b>Proatividade:</b> maior desafio por ser educado e exposto a um sistema tradicional de ensino até a entrada na FATEC, a proatividade foi o diferencial para o alcance do objetivo proposto.</p>
+<p align="justify"><b>Comunicação Assertiva:</b> pouco conhecimento dos membros da equipe com perfis muito distintos, a comunicação foi ponto essencial para um bom planejamento.</p>
+<br>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
 <hr>
@@ -415,6 +418,10 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
     </tr>
   </table>
 </details>
+<br>
+<p align="justify"><b>Proatividade:</b>por estar em um novo grupo com pessoas pouco conhecidas, a proatividade foi fundamental para que eu me entrosasse e realizasse as entregas.</p>
+<p align="justify"><b>Resiliência:</b> perdemos alguns membros ao longo do caminho e, por conta disso, precisei ser resiliente para assumir novas atividades, mesmo àquelas sem tanta afinidade.</p>
+<br>
 </div>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
@@ -578,6 +585,11 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
     </tr>
   </table>
 </details>
+<br>
+<p align="justify"><b>Visão de Negócio:</b> por ser um projeto complexo, conseguir enxergar os objetivos e obter os requerimentos por parte do cliente foi o diferencial da nossa equipe desde o início.</p>
+<p align="justify"><b>Organização e Planejamento:</b> devido à complexidade, ter um bom planejamento foi fundamental para que entregassemos todos MVPs com sucesso.</p>
+<p align="justify"><b>Resiliência/Inteligência Emocional:</b> houve conflitos entre o time de desenvolvimento e precisei ser resiliente para que as entregas fossem feitas, tentando ao máximo apoiar as individualidades de cada um e as focalizando no objetivo final das entregas.</p>
+<br>
 </div>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
@@ -730,6 +742,10 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
     </tr>
   </table>
 </details>
+<br>
+<p align="justify"><b>Visão de Negócio:</b> Foi a primeira vez que pude usar a metodologia Product Backlog Building que me direcionou a fazer as perguntas certas para o cliente e, com isso, ter uma visão de negócio ampla, pensando em sua aplicação e futuro escalonamento.</p>
+<p align="justify"><b>Organização e Planejamento:</b> devido ao grande número de requisitos solicitados pelo cliente, o planejamento foi necessário para a definicção dos MVPs e a organização para a entrega de sucesso de cada um deles.</p>
+<br>
 </div>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
@@ -916,6 +932,10 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
     </tr>
   </table>
 </details>
+<br>
+<p align="justify"><b>Visão de Negócio:</b> por ser um projeto focado em business intelligence, a visão do negócio de ponta a ponta foi fundamental para que, desde o início, entendessemos a proposta do cliente e, com isso, desenvolver entregas de valor a cada sprint.</p>
+<p align="justify"><b>Proatividade:</b> por ser um projeto focado em análise de dados e por minha equipe possuir um perfil de desenvolvedores front e back-end, precisei ser pró-ativo para compartilhar com todos como desenvolveríamos a inteligencia de negócio associada com as regras e objetivos do cliente.</p>
+<br>
 </div>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
@@ -935,12 +955,7 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
 <details>
   <summary><b>Aggregation Framework</b></summary>
   <br>
-  <table align="center">
-    <tr>
-      <td alignt="center"><img src="" alt=""/>
-      </td>     
-    </tr>
-  </table>
+  <p align="justify">A documentação de todo processo de tratamento e conciliação dos dados utilizando Aggregation Framework podem ser consultadas <a href="https://github.com/API6Sem22/API6Doc/tree/main/MongoDB%20Database%20Documentation"> neste link</a></p>
 </details>
 <p align="justify">A base Gold é extraída, transformada e inserida em um DataWarehouse onde os dados serão utilizados para visualização das medidas e métricas na ferramenta de <i>business intelligence</i> PowerBI.</p>
 <details>
@@ -1056,6 +1071,8 @@ fui responsável pela criação e prototipação das wireframes e avancei nos es
     </tr>
   </table>
 </details>
+<br>
+<p align="justify"><b>Empatia/Resiliência:</b> todos estávamos no último semestre com nossos porfólios a serem finalizados, tarefas adicionais da faculdade, trabalho regular dos membros, por conta disso precisamos realinhar expectativas e a empatia foi fundamental para entender e chegarmos a uma melhor solução.</p>
 <br>
 <p><a href="#sumário">Voltar para o início</a></p>
 </div>
